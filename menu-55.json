@@ -1,0 +1,3658 @@
+[
+  {
+    "categoria": "DESAYUNADOR/ 8am-3pm",
+    "subcategorias": [
+      {
+        "nombre": "Desayunos Cosas Ricas del 55",
+        "items": [
+          {
+            "id": 524,
+            "nombre": "Poderoso",
+            "descripcion": "Tus cosas ricas clásicas para activar la mañana: jamon, queso de campo, palta y tostadas con mantequilla + ensaladas de frutas + vitamina de naranja y el infaltable café de la casa.",
+            "precio": 10500,
+            "foto": true,
+            "disponible": true
+          },
+          {
+            "id": 526,
+            "nombre": "Brunch Cosas Ricas",
+            "descripcion": "Tus Cosas Ricas suben de nivel: tostada de hogaza de masa madre con palta, pulled de setas, huevo pochado, encurtidos y hojas verdes + yogurt natural con granola + vitamina de naranja y el infaltable café de la casa.",
+            "precio": 14500,
+            "foto": true,
+            "disponible": true
+          }
+        ]
+      },
+      {
+        "nombre": "A Tu Gusto!",
+        "items": [
+          {
+            "id": 557,
+            "nombre": "Bowl Yogurt y Granola",
+            "descripcion": null,
+            "precio": 4500,
+            "foto": true,
+            "disponible": true
+          },
+          {
+            "id": 558,
+            "nombre": "Bowl de Frutas",
+            "descripcion": null,
+            "precio": 4500,
+            "foto": true,
+            "disponible": true
+          },
+          {
+            "id": 560,
+            "nombre": "Paila de Huevos de Campo",
+            "descripcion": "Elige: sola, con queso de campo o con jamón acaramelado (Valor Extra Jamón y Queso)",
+            "precio": 5200,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 561,
+            "nombre": "Omelette Clásico",
+            "descripcion": "Con queso de campo y jamón acaramelado.",
+            "precio": 6900,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 562,
+            "nombre": "Omelette Cosas Ricas al 55",
+            "descripcion": "La versión del Bar55 con setas, queso de campo, tomate, mix de champiñones y orégano fresco.",
+            "precio": 7500,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 576,
+            "nombre": "Huevos a la Copa",
+            "descripcion": null,
+            "precio": 4500,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 699,
+            "nombre": "Tostadas con palta",
+            "descripcion": null,
+            "precio": 4900,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 815,
+            "nombre": "Paila de huevos sola",
+            "descripcion": null,
+            "precio": 4500,
+            "foto": false,
+            "disponible": true
+          }
+        ]
+      },
+      {
+        "nombre": "Sandwich Desayuno",
+        "items": [
+          {
+            "id": 564,
+            "nombre": "Sandwich Filete Luco",
+            "descripcion": "Con filete de vacuno y queso de campo.",
+            "precio": 12000,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 565,
+            "nombre": "Sandwich Jamón Queso",
+            "descripcion": null,
+            "precio": 5900,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 566,
+            "nombre": "Sandwich Vegeta de Setas",
+            "descripcion": "Con pulled de setas, queso de campo y tomate asado.",
+            "precio": 7600,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 791,
+            "nombre": "Sandwich Jamon Palta",
+            "descripcion": null,
+            "precio": 5900,
+            "foto": false,
+            "disponible": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoria": "DESDE LA COCINA / Desde 1pm",
+    "subcategorias": [
+      {
+        "nombre": "Sandwiches",
+        "items": [
+          {
+            "id": 75,
+            "nombre": "La Smash Burger",
+            "descripcion": "100% vacuno, queso Cheddar, BBQ, pepinillo, tocino y nuestra salsa 55.\nEn pan Brioche.",
+            "precio": 13800,
+            "foto": true,
+            "disponible": true
+          },
+          {
+            "id": 31,
+            "nombre": "Hamburguesa de Berenjena",
+            "descripcion": "Con berenjena asada, mezclada con queso azul y menta, champiñones salteados, lactonesa, salsa picantita y cebolla crocante. En pan Brioche.",
+            "precio": 11800,
+            "foto": true,
+            "disponible": true
+          },
+          {
+            "id": 474,
+            "nombre": "La Smash Doble",
+            "descripcion": "200% vacuno, queso Cheddar, BBQ, pepinillo, tocino y nuestra salsa 55. En pan Brioche.",
+            "precio": 16900,
+            "foto": true,
+            "disponible": true
+          },
+          {
+            "id": 639,
+            "nombre": "Sándwich del Cocinero",
+            "descripcion": "Churrasco de filete de vacuno, queso de campo fundido, tomates asados, champiñones salteados y mix verdes.",
+            "precio": 16500,
+            "foto": true,
+            "disponible": true
+          }
+        ]
+      },
+      {
+        "nombre": "La Parrilla",
+        "items": [
+          {
+            "id": 28,
+            "nombre": "Malaya de Chancho",
+            "descripcion": "Dorada y crocante con glaseado de ajo-mostaza, limón a la parrilla, cilantro fresco y manzana encurtida.",
+            "precio": 13500,
+            "foto": true,
+            "disponible": true
+          },
+          {
+            "id": 29,
+            "nombre": "Entraña de Vacuno",
+            "descripcion": "Servida a punto con mantequilla de hierbas.",
+            "precio": 16200,
+            "foto": true,
+            "disponible": true
+          }
+        ]
+      },
+      {
+        "nombre": "Los Platillos (frios y calientes)",
+        "items": [
+          {
+            "id": 21,
+            "nombre": "Jamón Crudo",
+            "descripcion": "De lomo vetado de cerdo con encurtidos de la casa, mostaza y tostadas",
+            "precio": 9800,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 24,
+            "nombre": "Nuestro Carpaccio",
+            "descripcion": "De vacuno curado con pimienta negra, mayonesa ahumada, alcaparras crocantes, queso maduro local y pebre de apio.",
+            "precio": 11800,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 20,
+            "nombre": "Abierto de Salmon",
+            "descripcion": "Láminas de salmón semi-curadas con canela sobre nuestro pan a la parrilla, ensalada de cítricos, palta, mayo de jengibre y hojas de huerto.",
+            "precio": 13200,
+            "foto": true,
+            "disponible": true
+          },
+          {
+            "id": 74,
+            "nombre": "Las Fritas de Coliflor",
+            "descripcion": "Cuatro empanadas rellenas con Coliflor asado, queso de cabra y ciboulette. Acompañado de pebre de Murta encurtida.",
+            "precio": 6900,
+            "foto": true,
+            "disponible": true
+          },
+          {
+            "id": 19,
+            "nombre": "La Mila del 55",
+            "descripcion": "Milanesa de Asiento bien crocante, cubierta con rabanitos encurtidos, queso de cabra, salsa tartara, mostaza y perejil.",
+            "precio": 10200,
+            "foto": true,
+            "disponible": true
+          },
+          {
+            "id": 22,
+            "nombre": "Alitas Crocantes",
+            "descripcion": "Glaseadas en BBQ Coreana y salsa anticuchera, con crema ácida,  encurtidos y cebollín verde.",
+            "precio": 9600,
+            "foto": true,
+            "disponible": true
+          },
+          {
+            "id": 759,
+            "nombre": "Las Croquetas de Sierra Ahumada",
+            "descripcion": "7 cremosas croquetas de sierra ahumada, procedentes de la caleta del piojo, con toques de queso de campo, posadas en lactonesa de ajo.",
+            "precio": 9900,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 568,
+            "nombre": "Ensalada 55",
+            "descripcion": "Ensalada con base de hojas verdes de estación, con proteína a elección (Pastrami, choritos ahumados en oliva o pollo a la plancha)",
+            "precio": 10900,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 638,
+            "nombre": "Ají Relleno 55",
+            "descripcion": "Dos ajíes verdes rellenos de carne mechada y queso mantecoso, apanados en panko y fritos. Acompaña salsa teriyaki y encurtidos de la casa. Selección Cosas Ricas!",
+            "precio": 12900,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 642,
+            "nombre": "Sierrusa 55",
+            "descripcion": "Salpicón de sierra ahumada con papas moradas chilotas, encurtidos y lactonesa. Selección Cosas Ricas!",
+            "precio": 10900,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 652,
+            "nombre": "Camaron al Pil Pil",
+            "descripcion": "Camarones salteados con ají cacho cabra, ajo laminado, apagado en vino blanco con reducción de bisket ( eso es un fondo de carcasa de camarón, verduras y vino blanco) acompañado de tostadas.",
+            "precio": 10900,
+            "foto": true,
+            "disponible": true
+          },
+          {
+            "id": 766,
+            "nombre": "Chupe de Jaiba",
+            "descripcion": null,
+            "precio": 13800,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 770,
+            "nombre": "La Chica de Hummus 2.0",
+            "descripcion": "Hummus de garbanzo y betarraga, vegetales asados del día y hojas frescas, con nuestras ricas tostadas de hogaza.",
+            "precio": 12500,
+            "foto": true,
+            "disponible": true
+          },
+          {
+            "id": 827,
+            "nombre": "Una Chorada!",
+            "descripcion": "Olla de choritos al vapor en bisque de camarones.",
+            "precio": 12000,
+            "foto": false,
+            "disponible": true
+          }
+        ]
+      },
+      {
+        "nombre": "Tablitas",
+        "items": [
+          {
+            "id": 33,
+            "nombre": "Fiambres y Quesos",
+            "descripcion": "Selección de fiambres artesanales, queso parmesano, queso chanco, mermelada de la casa y pan de campo.",
+            "precio": 15500,
+            "foto": true,
+            "disponible": true
+          },
+          {
+            "id": 288,
+            "nombre": "De Mar",
+            "descripcion": "Croquetas de sierra ahumada sobre salsa tártara, Carpaccio de salmón curado, Choritos ahumados en oliva, Chupe de jaiba, tostadas, mostaza y limón asado.",
+            "precio": 24900,
+            "foto": true,
+            "disponible": true
+          },
+          {
+            "id": 375,
+            "nombre": "Tabla Mixta",
+            "descripcion": "Alitas crocantes con reducción de cerveza, croquetas de pescado, choritos ahumados en oliva, empanaditas de chanchito, empanaditas de coliflor con queso de cabra y Papas Fritas",
+            "precio": 26500,
+            "foto": true,
+            "disponible": true
+          }
+        ]
+      },
+      {
+        "nombre": "Tostones Marinos",
+        "items": [
+          {
+            "id": 15,
+            "nombre": "Tostón de Jaiba",
+            "descripcion": "Jaiba, salsa verde de luche, zanahoria y cremoso de palta",
+            "precio": 9900,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 17,
+            "nombre": "Tostón de Choritos Ahumados",
+            "descripcion": "Choritos ahumados, lactonesa de piure, pebre de apio y luche frito. Montado en Brioche casero.",
+            "precio": 9600,
+            "foto": false,
+            "disponible": true
+          }
+        ]
+      },
+      {
+        "nombre": "Extras Cocina",
+        "items": [
+          {
+            "id": 35,
+            "nombre": "Ensalada de Encurtidos",
+            "descripcion": "Lo mejor de nuestros frascos con el aliño de la casa.",
+            "precio": 4200,
+            "foto": true,
+            "disponible": true
+          },
+          {
+            "id": 36,
+            "nombre": "Papas Fritas de Verdad",
+            "descripcion": "y punto!",
+            "precio": 5600,
+            "foto": true,
+            "disponible": true
+          },
+          {
+            "id": 591,
+            "nombre": "Papas Bravas",
+            "descripcion": null,
+            "precio": 6500,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 647,
+            "nombre": "picor alto",
+            "descripcion": null,
+            "precio": 0,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 648,
+            "nombre": "picor medio",
+            "descripcion": null,
+            "precio": 0,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 649,
+            "nombre": "picor bajo",
+            "descripcion": null,
+            "precio": 0,
+            "foto": false,
+            "disponible": true
+          }
+        ]
+      },
+      {
+        "nombre": "El Cuchareo Final - Postre",
+        "items": [
+          {
+            "id": 39,
+            "nombre": "La Anti-torta de Merengue",
+            "descripcion": "Convertimos la clásica torta Merengue Frambuesa en un helado, que montamos con dulce de leche, Nutella y avellana chilena.",
+            "precio": 5200,
+            "foto": true,
+            "disponible": true
+          },
+          {
+            "id": 40,
+            "nombre": "Volcán de Choco - Frambuesa",
+            "descripcion": "Biscocho de chocolate bitter relleno con un coulis de frambuesa montado sobre miga de vainilla-limón y helado de la casa.",
+            "precio": 6300,
+            "foto": true,
+            "disponible": true
+          }
+        ]
+      },
+      {
+        "nombre": "Salsas",
+        "items": [
+          {
+            "id": 206,
+            "nombre": "Lactonesa Cacho Cabra",
+            "descripcion": "Una salsa cremosa y vibrante, donde la suavidad de la lactonesa se equilibra con el toque picante y característico del ají cacho de cabra.",
+            "precio": 500,
+            "foto": true,
+            "disponible": true
+          },
+          {
+            "id": 207,
+            "nombre": "Lactonesa de Jengibre",
+            "descripcion": "Una salsa suave y aromática, donde la cremosidad de la lactonesa se fusiona con el sutil dulzor y el toque especiado del jengibre confitado.",
+            "precio": 500,
+            "foto": true,
+            "disponible": true
+          },
+          {
+            "id": 208,
+            "nombre": "Salsa 55",
+            "descripcion": "Salsa de la casa.",
+            "precio": 500,
+            "foto": true,
+            "disponible": true
+          },
+          {
+            "id": 209,
+            "nombre": "BBQ",
+            "descripcion": "Una combinación ahumada y equilibrada, donde la clásica salsa BBQ se enriquece con toques especiales de la casa, aportando profundidad, dulzura y un sutil toque especiado.",
+            "precio": 500,
+            "foto": true,
+            "disponible": true
+          },
+          {
+            "id": 210,
+            "nombre": "Pebre de Hierbas",
+            "descripcion": "Un pebre fresco y aromático, realzado con hierbas de la casa como tomillo, orégano y romero, una combinación de sabores herbales y toques tradicionales.",
+            "precio": 500,
+            "foto": true,
+            "disponible": true
+          },
+          {
+            "id": 211,
+            "nombre": "Tártara",
+            "descripcion": "Una combinación cremosa y vibrante, donde la suavidad de la lactonesa se enriquece con una mezcla de encurtidos de la casa, aportando un equilibrio perfecto entre acidez y frescura.",
+            "precio": 500,
+            "foto": true,
+            "disponible": true
+          },
+          {
+            "id": 212,
+            "nombre": "Lactonesa Ahumada",
+            "descripcion": "Una salsa cremosa y llena de carácter, donde la lactonesa de leche ahumada, elaborada por nosotros, se fusiona con una selección de especias, creando un sabor profundo y equilibrado.",
+            "precio": 500,
+            "foto": true,
+            "disponible": true
+          },
+          {
+            "id": 213,
+            "nombre": "Sour Cream",
+            "descripcion": "Una crema suave y aterciopelada, donde la acidez equilibrada de la crema ácida se combina con una selección de especias, creando un sabor fresco y delicioso.",
+            "precio": 500,
+            "foto": true,
+            "disponible": true
+          },
+          {
+            "id": 214,
+            "nombre": "Mostaza 55",
+            "descripcion": "Una mostaza de elaboración propia, intensamente aromática y equilibrada, enriquecida con una cuidada selección de especias que le dan sabor profundo y ligeramente picante.",
+            "precio": 500,
+            "foto": true,
+            "disponible": true
+          },
+          {
+            "id": 215,
+            "nombre": "Cremoso Palta",
+            "descripcion": "Una emulsión suave y aterciopelada, donde la cremosidad de la palta y la crema se realza con toques especiales de la casa.",
+            "precio": 500,
+            "foto": true,
+            "disponible": true
+          },
+          {
+            "id": 509,
+            "nombre": "Chimichurri",
+            "descripcion": null,
+            "precio": 600,
+            "foto": true,
+            "disponible": true
+          },
+          {
+            "id": 675,
+            "nombre": "Lactonesa de Ajo",
+            "descripcion": null,
+            "precio": 500,
+            "foto": true,
+            "disponible": true
+          },
+          {
+            "id": 801,
+            "nombre": "Pasta Diablo",
+            "descripcion": null,
+            "precio": 500,
+            "foto": true,
+            "disponible": true
+          },
+          {
+            "id": 803,
+            "nombre": "Salsa brava",
+            "descripcion": null,
+            "precio": 2000,
+            "foto": true,
+            "disponible": true
+          },
+          {
+            "id": 872,
+            "nombre": "Pebre de Murta",
+            "descripcion": "Un pebre fresco de murta encurtida de la casa con hierbas varias y un toque cítrico.",
+            "precio": 1000,
+            "foto": true,
+            "disponible": true
+          }
+        ]
+      },
+      {
+        "nombre": "Sopas y Cremas",
+        "items": [
+          {
+            "id": 708,
+            "nombre": "Crema de Zapallo",
+            "descripcion": null,
+            "precio": 5900,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 965,
+            "nombre": "Crema de hongos",
+            "descripcion": "Crema de hongos, parmesano, champiñones y hojas de perejil.",
+            "precio": 5000,
+            "foto": false,
+            "disponible": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoria": "CAFETERIA/ Todo el dia",
+    "subcategorias": [
+      {
+        "nombre": "Teteras",
+        "items": [
+          {
+            "id": 549,
+            "nombre": "Tetera Chai",
+            "descripcion": null,
+            "precio": 0,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 550,
+            "nombre": "Té e infusiones",
+            "descripcion": null,
+            "precio": 2000,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 551,
+            "nombre": "Tetera Rooibos Naranja",
+            "descripcion": null,
+            "precio": 0,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 552,
+            "nombre": "Tetera Frutos Del Bosque",
+            "descripcion": null,
+            "precio": 0,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 751,
+            "nombre": "Tetera Sensorial",
+            "descripcion": null,
+            "precio": 4000,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 752,
+            "nombre": "Tetera Sensorial Con Leche",
+            "descripcion": null,
+            "precio": 4900,
+            "foto": false,
+            "disponible": true
+          }
+        ]
+      },
+      {
+        "nombre": "Extras",
+        "items": [
+          {
+            "id": 553,
+            "nombre": "Crema Chantilly",
+            "descripcion": null,
+            "precio": 700,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 555,
+            "nombre": "Syrup Vainilla",
+            "descripcion": null,
+            "precio": 300,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 630,
+            "nombre": "Leche Vegetal",
+            "descripcion": null,
+            "precio": 700,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 635,
+            "nombre": "Leche entera",
+            "descripcion": null,
+            "precio": 0,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 636,
+            "nombre": "Sin lactosa",
+            "descripcion": null,
+            "precio": 0,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 637,
+            "nombre": "Descremada",
+            "descripcion": null,
+            "precio": 0,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 817,
+            "nombre": "Syrup Canela",
+            "descripcion": null,
+            "precio": 300,
+            "foto": false,
+            "disponible": true
+          }
+        ]
+      },
+      {
+        "nombre": "Infusiones",
+        "items": [
+          {
+            "id": "inf1",
+            "nombre": "Infusión Naranja, Menta y Jengibre",
+            "descripcion": null,
+            "precio": 1900,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": "inf2",
+            "nombre": "Té Ceylán",
+            "descripcion": null,
+            "precio": 1900,
+            "foto": false,
+            "disponible": true
+          }
+        ]
+      }
+    ],
+    "items": [
+      {
+        "id": 3,
+        "nombre": "Cafe Americano Doble",
+        "descripcion": "Doble espresso diluido en agua (150 ml)",
+        "precio": 2800,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 4,
+        "nombre": "Cafe Americano Simple",
+        "descripcion": null,
+        "precio": 2300,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 531,
+        "nombre": "Ristretto",
+        "descripcion": "Extracción reducida de espresso concentrando sabores esenciales (15 a 20ml aprox).",
+        "precio": 2000,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 532,
+        "nombre": "Espresso",
+        "descripcion": "Extracción de café nivelado en sabor y cantidad (30ml aprox)",
+        "precio": 2300,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 533,
+        "nombre": "Doppio / Espresso Doble",
+        "descripcion": "Extracción doble de espresso (60ml aprox)",
+        "precio": 2400,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 534,
+        "nombre": "Espresso Macchiato",
+        "descripcion": "De espresso manchado con leche emulsionada.",
+        "precio": 2500,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 535,
+        "nombre": "Lungo",
+        "descripcion": "Extracción de espresso prolongada (35 a 40ml aprox)",
+        "precio": 2000,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 538,
+        "nombre": "Cappuccino Simple",
+        "descripcion": "Espresso equilibrado con leche texturizada.(150 a 180ml aprox).",
+        "precio": 2800,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 539,
+        "nombre": "Flat White",
+        "descripcion": "Espresso doble con leche emulsionada (140 a 170ml)",
+        "precio": 3000,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 542,
+        "nombre": "Chai Latte",
+        "descripcion": "Mezcla de especias combinadas con leche texturizada (290ml)",
+        "precio": 4500,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 544,
+        "nombre": "Golden Chai Latte",
+        "descripcion": "Mezcla principalmente especiada con cúrcuma combinada con leche texturizada (290ml)",
+        "precio": 4500,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 543,
+        "nombre": "Mocaccino",
+        "descripcion": "Mezcla de extracción doble de café con chocolate y leche emulsionada.",
+        "precio": 3800,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 546,
+        "nombre": "Café Irlandés",
+        "descripcion": "Espresso doble, azúcar rubia y whisky con capa de leche o crema",
+        "precio": 5000,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 629,
+        "nombre": "Chocolate Caliente",
+        "descripcion": null,
+        "precio": 4500,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 681,
+        "nombre": "Dirty Chai Latte",
+        "descripcion": "Infusión especiada de chai con un toque de espresso: lo mejor del té y el café.",
+        "precio": 5000,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 540,
+        "nombre": "Latte",
+        "descripcion": "Espresso diluido en leche texturizada (290ml)",
+        "precio": 4000,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 685,
+        "nombre": "Latte Doble",
+        "descripcion": null,
+        "precio": 4500,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 705,
+        "nombre": "Espresso Tonic",
+        "descripcion": "Espresso Doble con un resfrescante toque de limon y Agua tonica.",
+        "precio": 4500,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 767,
+        "nombre": "Cappuccino Doble",
+        "descripcion": null,
+        "precio": 3000,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 828,
+        "nombre": "Filtrado simple",
+        "descripcion": "15 grs de café\n180 ml de agua\nElige método de extracción: aeropress o v60",
+        "precio": 2500,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 829,
+        "nombre": "Filtrado doble",
+        "descripcion": "30 gramos de cafe\n360 ml de agua\n\nElige método de extracción: Aeropress o V60",
+        "precio": 3500,
+        "foto": false,
+        "disponible": true
+      }
+    ]
+  },
+  {
+    "categoria": "PASTELERIA/ Todo el dia",
+    "subcategorias": [
+      {
+        "nombre": "Panqueque",
+        "items": [
+          {
+            "id": 617,
+            "nombre": "Mocaccina",
+            "descripcion": null,
+            "precio": 4000,
+            "foto": false,
+            "disponible": true
+          }
+        ]
+      },
+      {
+        "nombre": "Cheesecake",
+        "items": [
+          {
+            "id": 640,
+            "nombre": "Cheesecake Philadelphia con Salsa de Berries",
+            "descripcion": "Crocante base de galletas integrales, relleno de cremoso queso philadeplhia y salsa de berries",
+            "precio": 5000,
+            "foto": true,
+            "disponible": true
+          }
+        ]
+      },
+      {
+        "nombre": "Alfajor",
+        "items": [
+          {
+            "id": 626,
+            "nombre": "Alfajor Frambuesa",
+            "descripcion": "Hojarasca de alfajor con crema chantilly, manjar y frambuesa.",
+            "precio": 5000,
+            "foto": true,
+            "disponible": true
+          }
+        ]
+      },
+      {
+        "nombre": "Galletones",
+        "items": [
+          {
+            "id": 655,
+            "nombre": "Galletón de limón",
+            "descripcion": null,
+            "precio": 1500,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 669,
+            "nombre": "Galletón Doble Cacao",
+            "descripcion": null,
+            "precio": 2000,
+            "foto": false,
+            "disponible": true
+          }
+        ]
+      },
+      {
+        "nombre": "Bizcocho",
+        "items": [
+          {
+            "id": 602,
+            "nombre": "Zanahoria, manjar de campo y nueces",
+            "descripcion": "Bizcocho de zanahoria y nueces, relleno de manjar campo, cubierta de manjar y nueces molidas.",
+            "precio": 4000,
+            "foto": true,
+            "disponible": true
+          },
+          {
+            "id": 604,
+            "nombre": "Chocolate Trufa",
+            "descripcion": "Bizcocho de chocolate, relleno de chocolate trufa.",
+            "precio": 3000,
+            "foto": true,
+            "disponible": true
+          },
+          {
+            "id": 605,
+            "nombre": "Carrot Cake",
+            "descripcion": "Bizcocho de zanahoria y nueces, relleno de suave crema de queso.",
+            "precio": 4000,
+            "foto": true,
+            "disponible": true
+          },
+          {
+            "id": 606,
+            "nombre": "Ciruela y Crema Ácida de Limón",
+            "descripcion": null,
+            "precio": 4000,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 609,
+            "nombre": "Tiramisu",
+            "descripcion": null,
+            "precio": 5000,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 610,
+            "nombre": "Chocolate con arandanos",
+            "descripcion": null,
+            "precio": 5000,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 939,
+            "nombre": "Nuez, manjar y lúcuma",
+            "descripcion": null,
+            "precio": 4000,
+            "foto": false,
+            "disponible": true
+          }
+        ]
+      },
+      {
+        "nombre": "Otros ricos!",
+        "items": [
+          {
+            "id": 620,
+            "nombre": "Pie de Limón",
+            "descripcion": null,
+            "precio": 4000,
+            "foto": true,
+            "disponible": true
+          },
+          {
+            "id": 628,
+            "nombre": "Strudel Manzana",
+            "descripcion": null,
+            "precio": 5000,
+            "foto": true,
+            "disponible": true
+          },
+          {
+            "id": 668,
+            "nombre": "Galletas Surtidas Cosas Ricas 100grs",
+            "descripcion": null,
+            "precio": 2000,
+            "foto": false,
+            "disponible": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoria": "BOTANICAL SPRITZ MAGRITTE",
+    "items": [
+      {
+        "id": 951,
+        "nombre": "Vermouth Magritte",
+        "descripcion": null,
+        "precio": 7000,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 953,
+        "nombre": "Arrayán Spritz Magritte",
+        "descripcion": null,
+        "precio": 7000,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 958,
+        "nombre": "Tepa Spritz Magritte",
+        "descripcion": null,
+        "precio": 7000,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 959,
+        "nombre": "Murta Spritz Magritte",
+        "descripcion": null,
+        "precio": 7000,
+        "foto": false,
+        "disponible": true
+      }
+    ]
+  },
+  {
+    "categoria": "HAPPY HOUR 55 / Domingo a jueves de 18-21 Hrs.",
+    "items": [
+      {
+        "id": 753,
+        "nombre": "Murra Spritz 2 X 10.000",
+        "descripcion": "Licor artesanal a base de murras Valdivianas, carbonatada con espumante brut y un toque de soda.",
+        "precio": 10000,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 754,
+        "nombre": "Limoncello Spritz 2 X 10.000",
+        "descripcion": "Limoncello artesanal creado a base de cascaras cítricas, carbonatado con espumante brut y un toque de soda.",
+        "precio": 10000,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 755,
+        "nombre": "Branca Cola X 10.000",
+        "descripcion": "Fernet Branca con bebida Cola.",
+        "precio": 10000,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 756,
+        "nombre": "Gin Tonic de Barril 2 X 10.000",
+        "descripcion": "Gin Brouwershaven con bebida tónica.",
+        "precio": 10000,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 757,
+        "nombre": "Piscola Mistral 35° 2 X 10.000",
+        "descripcion": "Pisco Mistral 35° mas bebida cola.",
+        "precio": 10000,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 758,
+        "nombre": "Fernet Branca menta con Bebida tónica 2 X 10.000",
+        "descripcion": "Fernet Branca Menta es de color oscuro, rojo con tonos marrones. En nariz, tallo de menta verde, aromática, con un toque a salsa de chocolate y bayas.",
+        "precio": 10000,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 764,
+        "nombre": "Cuello Negro Ambar y Stout 500 cc 2 X 8.000",
+        "descripcion": "Cerveza Cuello Negro en sus variedades Stout y Ambar , en formato de 500 cc.",
+        "precio": 8000,
+        "foto": false,
+        "disponible": true
+      }
+    ]
+  },
+  {
+    "categoria": "COCTELERÍA DE TEMPORADA 55",
+    "items": [
+      {
+        "id": 809,
+        "nombre": "Clavo y Tepa",
+        "descripcion": "Vodka infusionado en tepa especiado con miel, clavo de olor, nuez moscada y canela, Scotch Johnnie Walker Black. Decorado con hoja de tepa y perfumado con piel y limón.",
+        "precio": 10000,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 811,
+        "nombre": "Pais de la Manzana",
+        "descripcion": "Vodka Zubrowka, cordial de limón y tomillo, reducción de sidra de manzana limona, vermouth bianco Carpano, Shrub de manzana verde. Decorado con tomillo fresco",
+        "precio": 7500,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 812,
+        "nombre": "Murtilla",
+        "descripcion": "Licor de murta artesanal, syrup de murta, zumo de limón, Gin Santos y albúmina.",
+        "precio": 8500,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 875,
+        "nombre": "The Manzanares",
+        "descripcion": "Refrescante cóctel a base de Brandy de manzana Limóna, vermút bianco, cordial de manzana verde-albahaca y top de cerveza Jester NuB Hazy Pale Ale",
+        "precio": 7500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 944,
+        "nombre": "Funky Banana",
+        "descripcion": "Licor de plátano, gin, licor de cacao, crema de leche y Syrup de plátano nuez moscada.",
+        "precio": 8500,
+        "foto": false,
+        "disponible": true
+      }
+    ]
+  },
+  {
+    "categoria": "COCTELERÍA 55",
+    "items": [
+      {
+        "id": 162,
+        "nombre": "Cacho Cabra Sour",
+        "descripcion": "Ají cacho de cabra macerado en pisco reposado, endulzado con syrup simple, notas ahumadas y notas acidas de limón.",
+        "precio": 7900,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 163,
+        "nombre": "Ruibarbo Sour",
+        "descripcion": "Syrup de ruibarbo potenciado en gin, perfumado con un mix alcohólico de cítricos.",
+        "precio": 7900,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 167,
+        "nombre": "Murra Spritz",
+        "descripcion": "Licor artesanal a base de murras Valdivianas, carbonatada con espumante brut y un toque de soda.",
+        "precio": 7300,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 168,
+        "nombre": "Limoncello Spritz",
+        "descripcion": "Limoncello artesanal creado a base de cascaras cítricas, carbonatado con espumante brut y un toque de soda.",
+        "precio": 7300,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 171,
+        "nombre": "Morado",
+        "descripcion": "Frutos rojos macerados en gin, equilibrado con syrup de mora y lavanda, elevado por la frescura cítrica del zumo de limón.",
+        "precio": 7000,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 172,
+        "nombre": "Amarillo",
+        "descripcion": "Piña grillada macerada en tequila, endulzada con syrup de cúrcuma, acabado en merken y notas salinas.",
+        "precio": 7000,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 174,
+        "nombre": "Moscow Mule de la Casa",
+        "descripcion": "Vodka macerado en un mix de cascaras cítricas, endulzado con syrup de cúrcuma, carbonatado con bebida de jengibre.",
+        "precio": 7900,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 175,
+        "nombre": "Margarita Aji Verde",
+        "descripcion": "Tequila macerado en ají verde, licor de naranjas y esencias cítricas, finalizado con un toque de solución salina.",
+        "precio": 7900,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 177,
+        "nombre": "Espresso Martini de la Casa",
+        "descripcion": "A base de reducción de cerveza Stout, potenciado con vodka, licor y extracción de café.",
+        "precio": 7900,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 441,
+        "nombre": "Sangria 55",
+        "descripcion": null,
+        "precio": 8000,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 810,
+        "nombre": "Tumba de conejos",
+        "descripcion": "Mezcal 400 Conejos Joven, cordial de naranja y romero, solución salina, Fentimans Valencian Orange. Ahumado con romero y naranja.",
+        "precio": 10000,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 742,
+        "nombre": "Amurrao",
+        "descripcion": "Licor de murra de la casa, syrup de murras y lavanda, Fernet Branca Menta, Gin Santos y zumo de limón fresco. Decorado con pincho de murras.",
+        "precio": 7900,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 775,
+        "nombre": "Tepasaste",
+        "descripcion": "Licor de tepa de la casa, Mistral 35°, syrup simple, zumo de limón y albumina.",
+        "precio": 7900,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 1008,
+        "nombre": "El boticario",
+        "descripcion": null,
+        "precio": 7900,
+        "foto": false,
+        "disponible": true
+      }
+    ]
+  },
+  {
+    "categoria": "COCTELERÍA ESPUMANTE",
+    "items": [
+      {
+        "id": 112,
+        "nombre": "French 75",
+        "descripcion": null,
+        "precio": 6500,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 137,
+        "nombre": "Ramazzotti Spritz",
+        "descripcion": null,
+        "precio": 6800,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 138,
+        "nombre": "Aperol Spritz",
+        "descripcion": null,
+        "precio": 6800,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 139,
+        "nombre": "Saint Germain Spritz",
+        "descripcion": null,
+        "precio": 10500,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 140,
+        "nombre": "Chambord Spritz",
+        "descripcion": null,
+        "precio": 8500,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 145,
+        "nombre": "KIR Royal",
+        "descripcion": null,
+        "precio": 5900,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 146,
+        "nombre": "Mimosa",
+        "descripcion": null,
+        "precio": 5900,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 319,
+        "nombre": "Ramazzotti Violetto Spritz",
+        "descripcion": null,
+        "precio": 6800,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 444,
+        "nombre": "Campari Spritz",
+        "descripcion": null,
+        "precio": 7500,
+        "foto": false,
+        "disponible": true
+      }
+    ]
+  },
+  {
+    "categoria": "CÓCTELES DE AYER, HOY Y SIEMPRE",
+    "subcategorias": [
+      {
+        "nombre": "PARA LOS CLÁSICOS",
+        "items": [
+          {
+            "id": 103,
+            "nombre": "Pichuncho",
+            "descripcion": null,
+            "precio": 6500,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 104,
+            "nombre": "Chilcano",
+            "descripcion": null,
+            "precio": 6900,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 105,
+            "nombre": "Negroni",
+            "descripcion": null,
+            "precio": 6900,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 107,
+            "nombre": "Dry Martini",
+            "descripcion": null,
+            "precio": 6900,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 110,
+            "nombre": "Tom Collins",
+            "descripcion": null,
+            "precio": 6900,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 117,
+            "nombre": "John Collins",
+            "descripcion": null,
+            "precio": 6500,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 111,
+            "nombre": "Tropical Gin",
+            "descripcion": null,
+            "precio": 7500,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 114,
+            "nombre": "Godfather",
+            "descripcion": null,
+            "precio": 6900,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 115,
+            "nombre": "Rusty Nail",
+            "descripcion": null,
+            "precio": 7500,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 116,
+            "nombre": "Old Fashioned",
+            "descripcion": null,
+            "precio": 6900,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 118,
+            "nombre": "Manhattan",
+            "descripcion": null,
+            "precio": 6900,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 121,
+            "nombre": "Daiquiri",
+            "descripcion": null,
+            "precio": 6300,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 122,
+            "nombre": "Piña Colada",
+            "descripcion": null,
+            "precio": 6900,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 124,
+            "nombre": "Cosmopolitan",
+            "descripcion": null,
+            "precio": 6900,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 128,
+            "nombre": "Espresso Martini",
+            "descripcion": null,
+            "precio": 6500,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 129,
+            "nombre": "Ruso Blanco",
+            "descripcion": null,
+            "precio": 6500,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 130,
+            "nombre": "Ruso Negro",
+            "descripcion": null,
+            "precio": 6200,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 132,
+            "nombre": "Margarita",
+            "descripcion": null,
+            "precio": 6500,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 134,
+            "nombre": "Margarita Blue",
+            "descripcion": null,
+            "precio": 6500,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 135,
+            "nombre": "Bloody Mary",
+            "descripcion": null,
+            "precio": 6900,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 144,
+            "nombre": "Long Island Iced Tea",
+            "descripcion": null,
+            "precio": 6300,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 294,
+            "nombre": "Americano",
+            "descripcion": null,
+            "precio": 5500,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 402,
+            "nombre": "Boulevardier",
+            "descripcion": null,
+            "precio": 6300,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 460,
+            "nombre": "Hanky Panky",
+            "descripcion": null,
+            "precio": 6000,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 493,
+            "nombre": "Garibaldi",
+            "descripcion": null,
+            "precio": 7500,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 510,
+            "nombre": "Alexander",
+            "descripcion": null,
+            "precio": 6500,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 671,
+            "nombre": "Carajillo 43",
+            "descripcion": "Licor 43 y espresso doble en las rocas",
+            "precio": 7000,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 702,
+            "nombre": "Sidecar",
+            "descripcion": null,
+            "precio": 7500,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 703,
+            "nombre": "Martinez",
+            "descripcion": null,
+            "precio": 6900,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 744,
+            "nombre": "Ferroviario",
+            "descripcion": null,
+            "precio": 6000,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 891,
+            "nombre": "Gin de Verano",
+            "descripcion": null,
+            "precio": 7500,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 921,
+            "nombre": "Sbagliato",
+            "descripcion": null,
+            "precio": 7500,
+            "foto": false,
+            "disponible": true
+          }
+        ]
+      },
+      {
+        "nombre": "PARA LOS AMANTES DEL SOUR",
+        "items": [
+          {
+            "id": 100,
+            "nombre": "Pisco Sour",
+            "descripcion": null,
+            "precio": 5900,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 366,
+            "nombre": "Sour Peruano",
+            "descripcion": null,
+            "precio": 6500,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 102,
+            "nombre": "Pisco Sour Peruano Catedral",
+            "descripcion": null,
+            "precio": 8900,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 119,
+            "nombre": "Whisky Sour",
+            "descripcion": null,
+            "precio": 6300,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 142,
+            "nombre": "Frangelico Sour",
+            "descripcion": null,
+            "precio": 6900,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 161,
+            "nombre": "Chambord Sour",
+            "descripcion": null,
+            "precio": 7500,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 183,
+            "nombre": "Chardonnay Sour",
+            "descripcion": null,
+            "precio": 5900,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 378,
+            "nombre": "Ramazzoti Sour",
+            "descripcion": null,
+            "precio": 6300,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 492,
+            "nombre": "Disaronno Sour",
+            "descripcion": null,
+            "precio": 7500,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 519,
+            "nombre": "Sauvignon Blanc Sour Tradicional",
+            "descripcion": null,
+            "precio": 5900,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 712,
+            "nombre": "New York sour",
+            "descripcion": null,
+            "precio": 6300,
+            "foto": false,
+            "disponible": true
+          }
+        ]
+      },
+      {
+        "nombre": "PARA REFRESCARTE",
+        "items": [
+          {
+            "id": 106,
+            "nombre": "London Mule",
+            "descripcion": null,
+            "precio": 8500,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 127,
+            "nombre": "Moscow Mule",
+            "descripcion": null,
+            "precio": 6900,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 113,
+            "nombre": "Bramble",
+            "descripcion": null,
+            "precio": 6800,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 120,
+            "nombre": "Mojito",
+            "descripcion": null,
+            "precio": 6800,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 489,
+            "nombre": "Mojito Jägermeister Cold Brew",
+            "descripcion": null,
+            "precio": 7200,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 379,
+            "nombre": "Mojito Jägermeister",
+            "descripcion": null,
+            "precio": 7200,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 133,
+            "nombre": "Paloma",
+            "descripcion": null,
+            "precio": 7500,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 453,
+            "nombre": "Mojito Berries",
+            "descripcion": null,
+            "precio": 7400,
+            "foto": true,
+            "disponible": true
+          },
+          {
+            "id": 382,
+            "nombre": "Mojito Mango",
+            "descripcion": null,
+            "precio": 7400,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 381,
+            "nombre": "Mojito Maracuya",
+            "descripcion": null,
+            "precio": 7400,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 465,
+            "nombre": "Mojito Ramazzotti",
+            "descripcion": null,
+            "precio": 7200,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 143,
+            "nombre": "Caipiriña",
+            "descripcion": null,
+            "precio": 6000,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 136,
+            "nombre": "Caipiroska",
+            "descripcion": null,
+            "precio": 6300,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 367,
+            "nombre": "Apple Mule",
+            "descripcion": null,
+            "precio": 7000,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 762,
+            "nombre": "Mojito Piña",
+            "descripcion": null,
+            "precio": 7400,
+            "foto": false,
+            "disponible": true
+          },
+          {
+            "id": 802,
+            "nombre": "Jäger Mule",
+            "descripcion": "El Jäger Mule es un cóctel fresco y especiado que mezcla Jägermeister, jugo de limón y ginger beer. Destaca por sus notas herbales, un toque picante del jengibre y un final refrescante, ideal para disfrutar bien frío.",
+            "precio": 8500,
+            "foto": false,
+            "disponible": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoria": "SIN ALCOHOL",
+    "items": [
+      {
+        "id": 158,
+        "nombre": "Limonada Tradicional",
+        "descripcion": null,
+        "precio": 3800,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 653,
+        "nombre": "Limonada Menta Jengibre",
+        "descripcion": null,
+        "precio": 4200,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 159,
+        "nombre": "Jugo Natural Frambuesa",
+        "descripcion": null,
+        "precio": 4500,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 476,
+        "nombre": "Jugo Natural Frutos Rojos",
+        "descripcion": null,
+        "precio": 4500,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 522,
+        "nombre": "Jugo Pulpa Mango",
+        "descripcion": null,
+        "precio": 4500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 523,
+        "nombre": "Jugo Pulpa Maracuya",
+        "descripcion": null,
+        "precio": 4500,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 221,
+        "nombre": "Jugo Natural Piña",
+        "descripcion": null,
+        "precio": 4500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 6,
+        "nombre": "Agua Mineral Con Gas",
+        "descripcion": null,
+        "precio": 2200,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 154,
+        "nombre": "Agua Mineral Sin Gas",
+        "descripcion": null,
+        "precio": 2200,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 147,
+        "nombre": "Coca-Cola Normal 350 cc",
+        "descripcion": null,
+        "precio": 2500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 148,
+        "nombre": "Coca-Cola Zero 350 cc",
+        "descripcion": null,
+        "precio": 2500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 512,
+        "nombre": "Coca-Cola Light 350 cc",
+        "descripcion": null,
+        "precio": 2500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 251,
+        "nombre": "Coca-Cola Normal 220 cc",
+        "descripcion": null,
+        "precio": 1500,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 252,
+        "nombre": "Coca-Cola Zero 220 cc",
+        "descripcion": null,
+        "precio": 1500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 149,
+        "nombre": "Schweppes Ginger Ale",
+        "descripcion": null,
+        "precio": 2500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 150,
+        "nombre": "Schweppes Tonica 310cc",
+        "descripcion": null,
+        "precio": 2500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 151,
+        "nombre": "Red Bull Original",
+        "descripcion": null,
+        "precio": 3000,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 511,
+        "nombre": "Red Bull Sin Azucar",
+        "descripcion": null,
+        "precio": 3000,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 152,
+        "nombre": "Red Bull Sandía",
+        "descripcion": null,
+        "precio": 3000,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 153,
+        "nombre": "Red bull Maracuya",
+        "descripcion": null,
+        "precio": 3000,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 156,
+        "nombre": "Fentimans Ginger Beer",
+        "descripcion": null,
+        "precio": 3000,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 157,
+        "nombre": "Fentimans Rose Lemonade",
+        "descripcion": null,
+        "precio": 3000,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 513,
+        "nombre": "Coca-Cola Light 220 cc",
+        "descripcion": null,
+        "precio": 1500,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 269,
+        "nombre": "Pinda kombucha de Barril 330cc",
+        "descripcion": "Kombucha artesanal de la Selva Valdiviana:\nFermentación viva con fruta real, agua de vertiente\ny propósito consciente.",
+        "precio": 3000,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 217,
+        "nombre": "Sprite Original 350 cc",
+        "descripcion": null,
+        "precio": 2500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 226,
+        "nombre": "Sprite Zero 350 cc",
+        "descripcion": null,
+        "precio": 2500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 253,
+        "nombre": "Sprite Normal 220 cc",
+        "descripcion": null,
+        "precio": 1500,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 254,
+        "nombre": "Sprite Zero 220 cc",
+        "descripcion": null,
+        "precio": 1500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 266,
+        "nombre": "Fentimans Tonic Normal",
+        "descripcion": null,
+        "precio": 3000,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 397,
+        "nombre": "Pepsi Original 350",
+        "descripcion": null,
+        "precio": 2500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 398,
+        "nombre": "Pepsi Zero 350cc",
+        "descripcion": null,
+        "precio": 2500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 514,
+        "nombre": "Fentimans Tonic Sin Azúcar",
+        "descripcion": null,
+        "precio": 3000,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 800,
+        "nombre": "San Pellegrino Agua c/ Gas",
+        "descripcion": null,
+        "precio": 3500,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 839,
+        "nombre": "Nothus SIN ALCOHOL",
+        "descripcion": null,
+        "precio": 4500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 860,
+        "nombre": "Fentimans Valencian Orange Tonic",
+        "descripcion": null,
+        "precio": 3000,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 874,
+        "nombre": "Pinda Kombucha de Barril 500cc",
+        "descripcion": "Kombucha artesanal de la Selva Valdiviana:\nFermentación viva con fruta real, agua de vertiente\ny propósito consciente.",
+        "precio": 4500,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 997,
+        "nombre": "Limonada Menta",
+        "descripcion": null,
+        "precio": 3900,
+        "foto": false,
+        "disponible": true
+      }
+    ]
+  },
+  {
+    "categoria": "MOCKTAILS",
+    "items": [
+      {
+        "id": 326,
+        "nombre": "Mojito Sin Alcohol",
+        "descripcion": null,
+        "precio": 6500,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 181,
+        "nombre": "Limonada de Almendra",
+        "descripcion": "Horchata artesanal de almendras con zumo de limón.",
+        "precio": 5900,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 799,
+        "nombre": "La Colorá (Mocktail)",
+        "descripcion": "Espresso doble, óleo de pomelo y romero, zumo de naranja. Terminado con tónica Schweppes.",
+        "precio": 5900,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 436,
+        "nombre": "Piña Colada Sin Alcohol",
+        "descripcion": null,
+        "precio": 6900,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 808,
+        "nombre": "Jardín del Sur (Mocktail)",
+        "descripcion": "Mermelada de ruibarbo, menta, limón y syrup de ruibarbo.",
+        "precio": 5900,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 877,
+        "nombre": "El Adorado",
+        "descripcion": "Mocktail a base de mango, jugo de naranja, cordial de naranja-romero, jengibre líquido y top de kombucha Pinda de mango-jengibre.",
+        "precio": 6900,
+        "foto": true,
+        "disponible": true
+      }
+    ]
+  },
+  {
+    "categoria": "CERVEZAS",
+    "items": [
+      {
+        "id": 984,
+        "nombre": "Bundor Elfa 500cc",
+        "descripcion": "Blonde Ale: de color dorado pálido, aroma frutal con un fondo a malta (algo de miel y granos) , en boca muy fresca y ligera con amargor equilibrado, retrogusto cítrico/herbal. Cerveza con actitud para quienes buscan una alternativa a la clásica pilsener lager. Amargor (IBU): 16 Alcohol: 4.5 gl",
+        "precio": 4500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 985,
+        "nombre": "Bundor Elfa 330cc",
+        "descripcion": "Blonde Ale: de color dorado pálido, aroma frutal con un fondo a malta (algo de miel y granos) , en boca muy fresca y ligera con amargor equilibrado, retrogusto cítrico/herbal. Cerveza con actitud para quienes buscan una alternativa a la clásica pilsener lager. Amargor (IBU): 16 Alcohol: 4.5 gl",
+        "precio": 3500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 823,
+        "nombre": "Bundor Ninfa 500cc",
+        "descripcion": "Cerveza tipo Irish Red Ale, de color ámbar intenso, aroma a caramelo y toffe, en boca textura media y sutil amargor de balance, retrogusto moderado y dulce. Cerveza amable que es un conveniente inicio en la gama de cervezas de Bundor. Amargor (IBU): 20 Alcohol: 6.0 gl",
+        "precio": 4500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 824,
+        "nombre": "Bundor Ninfa 330cc",
+        "descripcion": "Cerveza tipo Irish Red Ale, de color ámbar intenso, aroma a caramelo y toffe, en boca textura media y sutil amargor de balance, retrogusto moderado y dulce. Cerveza amable que es un conveniente inicio en la gama de cervezas de Bundor. Amargor (IBU): 20 Alcohol: 6.0 gl",
+        "precio": 3500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 192,
+        "nombre": "Cuello Negro Ambar 500 cc",
+        "descripcion": "English Pale Ale de fermentación alta con aroma que recuerda a caramelo, corteza de pan y a bizcocho de mediana intensidad. De amargor medio bajo que recuerda a resinas, en aroma el lúpulo recuerda a flores y ciertas notas cítricas. Elaborada con lúpulos nacionales y un porcentaje tradicional inglés. Carbonatación media y cuerpo ligero. \nAmargor (IBU): 23 Alcohol: 5.8 gl",
+        "precio": 5000,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 239,
+        "nombre": "Cuello Negro Ambar 330 cc",
+        "descripcion": "English Pale Ale de fermentación alta con aroma que recuerda a caramelo, corteza de pan y a bizcocho de mediana intensidad. De amargor medio bajo que recuerda a resinas, en aroma el lúpulo recuerda a flores y ciertas notas cítricas. Elaborada con lúpulos nacionales y un porcentaje tradicional inglés. Carbonatación media y cuerpo ligero. Amargor (IBU): 23 Alcohol: 5.8 gl",
+        "precio": 4000,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 193,
+        "nombre": "Cuello Negro Stout 500 cc",
+        "descripcion": "STOUT (Foreign Extra Stout)\nCerveza de fermentación alta, con sabores que recuerdan a chocolate amargo, café y regaliz. Aroma a frutas con carozo deshidratadas y cherry. Amargor medio alto con un balanceado adecuado con el dulzor de las maltas. Cuerpo alto y licorosas, carbonatación media y abundante espuma beige compacta de burbuja fina.\nAmargor (IBU): 23 Alcohol: 8.0 gl",
+        "precio": 5000,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 240,
+        "nombre": "Cuello Negro Stout 330 cc",
+        "descripcion": "STOUT (Foreign Extra Stout)\n\nCerveza de fermentación alta, con sabores que recuerdan a chocolate amargo, café y regaliz. Aroma a frutas con carozo deshidratadas y cherry. Amargor medio alto con un balanceado adecuado con el dulzor de las maltas. Cuerpo alto y licorosas, carbonatación media y abundante espuma beige compacta de burbuja fina.\nAmargor (IBU): 23 Alcohol: 8.0 gl",
+        "precio": 4000,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 187,
+        "nombre": "El Regreso Hazy IPA 500 cc",
+        "descripcion": null,
+        "precio": 6000,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 236,
+        "nombre": "El Regreso Hazy IPA 330 cc",
+        "descripcion": null,
+        "precio": 4500,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 741,
+        "nombre": "Jester NU-B 500 cc",
+        "descripcion": "Liviana y fresca, con notas de durazno,\nmaracuyá y frutas tropicales. Hoppy pero no\namarga. Deliciosamente equilibrada, jugosa y\nmuy fácil de beber. Amargor (IBU): 40 Alcohol: 5.2 gl",
+        "precio": 6000,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 743,
+        "nombre": "Jester NU-B 330 cc",
+        "descripcion": "Liviana y fresca, con notas de durazno,\nmaracuyá y frutas tropicales. Hoppy pero no\namarga. Deliciosamente equilibrada, jugosa y\nmuy fácil de beber. Amargor (IBU): 40 Alcohol: 5.2 gl",
+        "precio": 4500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 760,
+        "nombre": "Jester RESINOSA 500 cc",
+        "descripcion": "Esta hazy IPA de color pajizo y nublada destaca la explosión de lúpulos Americanos entregando notas a papaya, damascos y un suave aroma a coco. Al pasar el tiempo, la experiencia se va duplicando ya que aparece un golpe herbal, resinoso de pino y cannabis. Su jugosidad y sedosidad por aporte del trigo y avena en boca,  los cítricos como pomelo hacen una cerveza repleta de sabor, pero ojo, con mucha tomabilidad. Amargor (IBU): 60 Alcohol: 7.0 gl",
+        "precio": 6000,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 761,
+        "nombre": "Jester RESINOSA 330 cc",
+        "descripcion": "Esta hazy IPA de color pajizo y nublada destaca la explosión de lúpulos Americanos entregando notas a papaya, damascos y un suave aroma a coco. Al pasar el tiempo, la experiencia se va duplicando ya que aparece un golpe herbal, resinoso de pino y cannabis. Su jugosidad y sedosidad por aporte del trigo y avena en boca,  los cítricos como pomelo hacen una cerveza repleta de sabor, pero ojo, con mucha tomabilidad. Amargor (IBU): 60 Alcohol: 7.0 gl",
+        "precio": 4500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 205,
+        "nombre": "Chelada",
+        "descripcion": "Coctelería aderezada con Jugo de Limón y Sal.\nConsulta por tu Chelada preparada con cualquiera de nuestros distintos tipos de cervezas.",
+        "precio": 1500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 298,
+        "nombre": "Michelada",
+        "descripcion": "Coctelería aderezada con Jugo de Limón Merken y Sal.\nConsulta por tu Michelada preparada con cualquiera de nuestros distintos tipos de cervezas.",
+        "precio": 1500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 201,
+        "nombre": "Sidra DellaCha Manzana Limona 500 cc",
+        "descripcion": "Es una Sidra gasificada de 5,5° G.L., elaborada en base a manzana Limona, generada mediante fermentación lenta a bajas temperaturas, que luego de 6 meses de maduración, permite obtener un producto fresco y vivaz, con una agradable acidez y un adecuado matiz dulce, dejando un leve toque amargo al final, con aroma amplio y franco a piel de manzana, burbujas pequeñas y persistentes que ofrecen una agradable sensación en boca.",
+        "precio": 4800,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 249,
+        "nombre": "Sidra DellaCha Manzana Limona 330 cc",
+        "descripcion": "Es una Sidra gasificada de 5,5° G.L., elaborada en base a manzana Limona, generada mediante fermentación lenta a bajas temperaturas, que luego de 6 meses de maduración, permite obtener un producto fresco y vivaz, con una agradable acidez y un adecuado matiz dulce, dejando un leve toque amargo al final, con aroma amplio y franco a piel de manzana, burbujas pequeñas y persistentes que ofrecen una agradable sensación en boca.",
+        "precio": 3800,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 190,
+        "nombre": "Totem Ambar Bourbon 500 cc",
+        "descripcion": "Madurada con chips de roble americano, macerados previamente en bourbon durante 30 días. Posee un amargor medio/bajo y profundos aromas a caramelo y coco.Amargor (IBU): 16\nAlcohol: 6.0 gl",
+        "precio": 5000,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 232,
+        "nombre": "Totem Ambar Bourbon 330 cc",
+        "descripcion": "Madurada con chips de roble americano, macerados previamente en bourbon durante 30 días. Posee un amargor medio/bajo y profundos aromas a caramelo y coco.Amargor (IBU): 16\nAlcohol: 6.0 gl",
+        "precio": 4000,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 862,
+        "nombre": "Magritte Cider 500 cc",
+        "descripcion": "Sidra de manzana natural, baja en azucar y calorias, libre de gluten y antioxidante.",
+        "precio": 5000,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 863,
+        "nombre": "Magritte Cider 330 cc",
+        "descripcion": "Sidra de manzana natural, baja en azucar y calorias, libre de gluten y antioxidante.",
+        "precio": 4000,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 907,
+        "nombre": "Erdinger sin alcohol",
+        "descripcion": "Cerveza de trigo sin alcohol 330cc",
+        "precio": 5000,
+        "foto": false,
+        "disponible": true
+      }
+    ]
+  },
+  {
+    "categoria": "GINEBRA",
+    "items": [
+      {
+        "id": 386,
+        "nombre": "Beefeater 40° corto 90ml",
+        "descripcion": "Beefeater London Dry es una ginebra clásica y equilibrada. Su aroma presenta notas frescas de enebro, cítricos y un toque herbal. En boca, es seca y nítida, con un perfil bien definido de enebro, cáscara de naranja y cilantro. Su final es limpio y especiado recordando al sabor tradicional del gin.",
+        "precio": 5900,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 52,
+        "nombre": "Beefeater 40° + Bebida",
+        "descripcion": null,
+        "precio": 6900,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 387,
+        "nombre": "Beefeater Pink corto 90ml",
+        "descripcion": "Beefeater Pink es una ginebra suave y refrescante, infusionada con fresas naturales. Sus aromas combinan enebro y cítricos con un aroma dulce y afrutado. En boca, es equilibrado, con notas frescas de fresa que complementan su base clásica de London Dry Gin. Su final es suave y ligeramente dulce envolviendo el paladar en un tono frutal.",
+        "precio": 6200,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 51,
+        "nombre": "Beefeater Pink 40° + Bebida",
+        "descripcion": null,
+        "precio": 7200,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 245,
+        "nombre": "Brouwershaven 47º",
+        "descripcion": "Gin Brouwershaven 47º presenta aromas intensos de enebro, cítricos y especias. En boca, es robusto y equilibrado, con notas de cilantro y raíz de angélica. Su final es limpio y cálido, ideal para cócteles clásicos y de autor.",
+        "precio": 12500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 700,
+        "nombre": "Brouwershaven Murta",
+        "descripcion": "Este gin original es usado como base infusionada con Murta, fruto endémico del sur de Chile. Esta variedad fue reconocida con la Medalla de Oro en el Catad’Or Spirits Awards 2024. Los tonos de gin se balancean con precisión con el aroma de la murta fresca. En boca, resalta el dulzor natural aportado por la fruta. Aprécialo solo o en un gin tonic simple.",
+        "precio": 13500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 905,
+        "nombre": "Engine",
+        "descripcion": "Engine Gin es una ginebra italiana de tipo London Dry, elaborada de forma artesanal en la región de Alta Langa en el noroeste de Italia. \nSe elabora con ingredientes 100% orgánicos, como salvia, limón de Sicilia, regaliz de Calabria, rosa de Damasco y agua de los Alpes. La receta se inspira en la tradición piamontesa del rosolio, un licor a base de salvia y limón que se utilizaba como digestivo.",
+        "precio": 10900,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 55,
+        "nombre": "Hendrick´s 41,4°",
+        "descripcion": "El Gin Hendricks se caracteriza por su sabor distintivo, que combina una base de enebro con notas florales y cítricas, gracias a la infusión de pétalos de rosa y pepino. Alta calidad y sabor inigualable.",
+        "precio": 9500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 56,
+        "nombre": "Hendrick´s Gin Neptunia 43,4°",
+        "descripcion": "Gin Hendrick’s Neptunia combina su base clásica de pepino y rosa con botánicos costeros como tomillo y lima, creando una experiencia refrescante y única. En sus aromas se destacan aromas florales y herbales, con una sutil brisa marina. En boca, ofrece una textura suave y un equilibrio perfecto entre lo floral, lo cítrico y un final crujiente.",
+        "precio": 13500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 871,
+        "nombre": "Mabui",
+        "descripcion": "Gin Mabui es un destilado artesanal originario de Valdivia, Región de Los Ríos, Chile, elaborado con agua pura local y botánicos nativos del sur. Reconocido en los Catad'Or World Spirits Awards 2025, este gin ofrece una experiencia sensorial única, caracterizada por la esencia del bosque nativo y la lluvia.",
+        "precio": 9500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 287,
+        "nombre": "Mad Charlie's",
+        "descripcion": "Gin Mad Charlie's presenta un aroma fresco y herbáceo, con notas de enebro, menta, romero, y un toque frutal de saúco y floral de rosa. En boca, es suave, con un equilibrio entre la dulzura cítrica de mandarina y limón, y especias como pimienta rosa y cilantro. El final es limpio, con un retrogusto persistente de flores y especias.",
+        "precio": 9500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 906,
+        "nombre": "Mare",
+        "descripcion": "Gin Mare es una ginebra premium española (42.7% alc./vol.) lanzada en 2010, destacada por su perfil mediterráneo elaborado con botánicos como aceituna arbequina, albahaca, romero y tomillo. Producida en la Costa Dorada, ofrece un sabor herbal, fresco y salino, ideal para coctelería sofisticada y el clásico Gin Tonic con romero.",
+        "precio": 12500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 267,
+        "nombre": "Provincia Andes",
+        "descripcion": "Gin Provincia Andes es una ginebra chilena destilada con 14 botánicos, incluyendo boldo, cardamomo, pimienta negra y coriandro. Ofrece un aroma fresco y herbal con notas especiadas. En boca, es equilibrado y suave, con un final limpio y refrescante.",
+        "precio": 9500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 270,
+        "nombre": "Provincia Botanica",
+        "descripcion": "Gin Provincia Botánica es un pink gin chileno inspirado en la primavera del Valle de Colchagua. Destilado con botánicos como rosa mosqueta, frambuesa, pimienta rosada y naranja Valencia, ofrece un aroma floral y cítrico. En boca, es equilibrado, con un toque dulce y fresco.",
+        "precio": 9500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 278,
+        "nombre": "Provincia Mandarina",
+        "descripcion": "Gin Provincia Mandarina es una edición limitada chilena que destaca por su vibrante perfil cítrico. Destilado con 10 botánicos, incluyendo enebro, coriandro, mandarina, naranja y lavanda, ofrece un aroma fresco con notas cítricas y herbales. En boca, es equilibrado y suave, con un final donde se combinan la mandarina, el enebro y la albahaca.",
+        "precio": 9500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 277,
+        "nombre": "Provincia Patagonia",
+        "descripcion": "Gin Provincia Patagonia presenta aromas frescos y herbales, con notas de verbena de limón que aportan un perfil cítrico y ligeramente floral. En boca, es suave y equilibrada, con sabores sutiles de hierbas locales que complementan la base clásica de enebro.",
+        "precio": 11500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 257,
+        "nombre": "Santos London Dry",
+        "descripcion": "Santos London Dry es de apariencia cristalina y brillante, entre sus aromas, destaca por su frescura con enebro, cítricos y notas especiadas de cardamomo y pimienta negra, acompañadas de un sutil toque herbal de boldo. En boca es equilibrado y seco, con una entrada cítrica y especiada que evoluciona hacia un final largo y persistente con matices herbales.",
+        "precio": 6500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 383,
+        "nombre": "Tanqueray 43,1°",
+        "descripcion": "Tanqueray London es una ginebra icónica de estilo clásico y gran equilibrio. De entre sus aromas destacan notas frescas de enebro, cítricos y un sutil toque especiado. En boca, es seca y vibrante, con una armonía perfecta entre el enebro, el cilantro, el regaliz y la angélica. Su final es largo y limpio, con un ligero toque herbal.",
+        "precio": 8300,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 296,
+        "nombre": "Tanqueray Sevilla",
+        "descripcion": "Tanqueray Flor de Sevilla es una ginebra inspirada en las naranjas de Sevilla, que le aportan un perfil cítrico y afrutado. Entre sus aromas destacan notas de enebro y cáscara de naranja con un sutil toque especiado. En boca, es suave y equilibrado, con un dulzor natural de la naranja que se mezcla con el clásico carácter seco de Tanqueray.",
+        "precio": 7900,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 798,
+        "nombre": "Tanqueray Ten",
+        "descripcion": "Tanqueray N° TEN está reconocida como una de las ginebras más galardonadas y celebradas del mundo (la primera bebida transparente que entró en el Salón de la fama de San Francisco). Inspirado en 170 años de experiencia y herencia en destilería, comenzó con Charles Tanqueray en 1830. Tiene un proceso único de destilación utilizando fruta fresca (pomelo, limón y lima) así como los mejores productos botánicos entre los que se encuentran flores de manzanilla.",
+        "precio": 11000,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 724,
+        "nombre": "GIN TONIC BARRIL",
+        "descripcion": "Gin Brouwershaven con bebida tónica.",
+        "precio": 6500,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 987,
+        "nombre": "Gin Opihr",
+        "descripcion": null,
+        "precio": 13500,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 996,
+        "nombre": "Gin murta tonic de barril",
+        "descripcion": null,
+        "precio": 7500,
+        "foto": false,
+        "disponible": true
+      }
+    ]
+  },
+  {
+    "categoria": "PISCOS",
+    "items": [
+      {
+        "id": 41,
+        "nombre": "Alto del Carmen 35°",
+        "descripcion": "El Pisco Alto del Carmen 35° es un destilado elaborado con uvas Moscatel Rosada y Moscatel de Alejandría. Presenta un color amarillo dorado brillante. \nDe entre sus aromas destaca por una intensidad alta de aromas a moscatel, complementados con sutiles notas a vainilla que aportan complejidad. En boca, se percibe dulce, redondo y suave, con una persistencia media y equilibrada.",
+        "precio": 5600,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 43,
+        "nombre": "Alto del Carmen Reservado 40°",
+        "descripcion": "El Pisco Alto del Carmen Reservado tiene un color ámbar brillante y presenta aromas intensos a moscatel, con notas tostadas de caramelo y frutos secos. En boca es dulce, suave y redondo, con una persistencia media que resalta las características de las uvas y su envejecimiento en barricas de roble.",
+        "precio": 6500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 42,
+        "nombre": "Alto del Carmen Transparente 40°",
+        "descripcion": "El Pisco Alto del Carmen Transparente tiene un color brillante y aromas a moscatel, con notas cítricas y florales de azahar que aportan frescura. En boca, es dulce, fresco y untuoso, con una persistencia media que resalta sus características frutales y florales.",
+        "precio": 6500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 44,
+        "nombre": "Gobernador Especial 35°",
+        "descripcion": "El Pisco Gobernador Especial 35° tiene un color dorado brillante y un aroma delicado, con notas florales y cítricas que se combinan con un toque sutil de madera, aportando complejidad. En boca, se percibe una entrada suave y redonda, con una textura untuosa que resalta su equilibrio. Su final es delicado y persistente, dejando un retrogusto suave que recuerda las notas frutales y la madera.",
+        "precio": 6000,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 45,
+        "nombre": "Gobernador 40°",
+        "descripcion": "El Pisco Gobernador tiene un aroma intenso y afrutado, con notas de uvas maduras y toques de frutas cítricas. En boca es suave y bien equilibrado, destacando su dulzura natural y un leve toque especiado. Su final es limpio y persistente, con una sensación refrescante que resalta las notas frutales.",
+        "precio": 7000,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 47,
+        "nombre": "Mistral 35°",
+        "descripcion": "El Pisco Mistral 35° tiene un color dorado brillante y un aroma que combina notas de madera de roble con toques suaves de vainilla y chocolate, aportando dulzura y profundidad. En boca es suave y maduro, con una textura redonda que resalta su equilibrio y consistencia. Su sabor es armonioso, con una dulzura natural complementada por las notas de vainilla y chocolate.",
+        "precio": 5600,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 46,
+        "nombre": "Mistral Gran Nobel 40°",
+        "descripcion": "El Pisco Gran Nobel 40° tiene un color dorado profundo y brillante. Presenta aromas intensos de madera de roble, con notas de vainilla, cacao y frutos secos como durazno y damasco. En boca, es suave y maduro, con una textura redonda que resalta su equilibrio. Su sabor es armonioso, con una dulzura natural complementada por las notas de vainilla, cacao y frutos secos.",
+        "precio": 9500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 275,
+        "nombre": "Mistral Nobel 40°",
+        "descripcion": "El Pisco Mistral Nobel 40° tiene un color ámbar brillante, destaca por sus aromas de madera de roble, con notas de vainilla y chocolate que aportan dulzura y profundidad. En boca, es suave y maduro, con una textura redonda que resalta su equilibrio. Su sabor es armonioso, con una dulzura natural que se complementa con las notas de vainilla y chocolate.",
+        "precio": 7900,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 422,
+        "nombre": "Mistral Apple",
+        "descripcion": "El Pisco Mistral Nobel Apple tiene un color dorado brillante. Dentro de sus aromas se perciben notas de manzana madura, con toques florales y matices de vainilla y caramelo. En boca, es suave y equilibrado, con un final largo y persistente, marcado por una acidez que aporta frescura y un retrogusto agradablemente sutil, dejando una excelente impresión.",
+        "precio": 7000,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 50,
+        "nombre": "Kappa XO 40°",
+        "descripcion": "El Pisco Kappa XO tiene un color dorado profundo, resultado de su proceso de envejecimiento en barricas de roble. Se distinguen aromas complejos de flores como azahares, con toques de frutas maduras como mango y manzana verde, complementados con sutiles notas de té blanco y especias. En boca, es envolvente y armonioso, con un perfil suave y bien equilibrado. Su final es largo, marcado por una acidez fresca que prolonga la experiencia y aporta una gran persistencia.",
+        "precio": 12900,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 101,
+        "nombre": "Barsol Peru 40º",
+        "descripcion": null,
+        "precio": 7300,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 771,
+        "nombre": "Black Heron  40°",
+        "descripcion": "Black Heron es el único pisco ahumado del mundo. Un triple destilado añejado en roble, de origen puro y corazón rebelde. Elaborado en las tierras altas del Valle del Limarí a partir de uva Moscatel, su aroma y sabor son una armonía perfecta de fruta, madera y humo.",
+        "precio": 10500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 772,
+        "nombre": "Bou Barroeta Maria´s 40°",
+        "descripcion": "Maria ́s, madre fértil que en su regazo nace y crece la semilla. Su pureza se hace símbolo, su causa fecunda, origen y fuente de tu vida. Madre tierra, inmaculada y creadora que nutre, ampara, cobija y luego otorga lo mejor de sí; su virtud convertida en fruto sublime.\nPisco fresco de 40 grados, reposado 12 meses en acero inoxidable y elaborado con variedad de moscatel, gesta destilado de arte, madurado a temperatura ambiente.",
+        "precio": 10500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 870,
+        "nombre": "Mulet 40°",
+        "descripcion": "Desde el Valle de San Félix, un pisco de carácter firme y alma floral. Aromas de uva moscatel, notas cítricas sutiles y un paso cálido, profundo y persistente. 40° alcohólicos que dejan huella, noble y elegante.",
+        "precio": 10500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 966,
+        "nombre": "Bou Barroeta Noor 40°",
+        "descripcion": "Destilado artesanal de alta gama originario del Valle del Huasco, Atacama. Elaborado íntegramente con uvas Moscatel Rosada, este pisco \"Reservado\" atraviesa un riguroso proceso de maduración de 4 años en barricas de roble americano bajo condiciones de oscuridad total. Su perfil se caracteriza por un equilibrio excepcional entre la fuerza del desierto y una textura sedosa, calidad que ha sido ratificada con 94 puntos en la London Spirits Competition 2026 y el Oro en CINVE España 2025, situándolo como un referente mundial de la pisquería chilena.",
+        "precio": 12800,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 969,
+        "nombre": "Gobernador Platino 40°",
+        "descripcion": "Nacido de las tierras del Valle de Limarí, El Gobernador Platino 40° es un pisco de alta gama que esconde un secreto en su transparencia. Creado por Miguel Torres Chile, este destilado funde la dulzura de la uva Moscatel de Alejandría con el perfume de la Moscatel Rosada. Su magia culmina en el alambique, donde los maestros rescatan pacientemente solo el \"corazón del corazón\", embotellando la expresión más pura y sofisticada de su territorio.",
+        "precio": 8000,
+        "foto": true,
+        "disponible": true
+      }
+    ]
+  },
+  {
+    "categoria": "RON",
+    "items": [
+      {
+        "id": 71,
+        "nombre": "Flor de Caña 12 Años 40°",
+        "descripcion": "El Flor de Caña 12 Años 40° es color ámbar rojizo. Aromas a frutos rojos, miel y nueces tostadas. Notas de vainilla y especias en boca, con un final suave y prolongado.",
+        "precio": 8500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 70,
+        "nombre": "Flor de Caña Añejo 18 Años 40°",
+        "descripcion": "El Flor de Caña Añejo 18 Años 40° es un ron de cuerpo completo, con un color ámbar brillante. Presenta aromas a nueces y caramelo. En boca, destaca por notas de vainilla intensa y especias, con un final suave y prolongado.",
+        "precio": 9500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 299,
+        "nombre": "Havana Club Añejo Especial 5 Años",
+        "descripcion": "Havana Club Añejo Especial 5 Años es un ron de cuerpo medio, con un color dorado brillante. Brinda aromas a especias, naranja y notas florales, complementados por matices provenientes de los barriles de roble joven. En boca, ofrece un sabor intenso y redondo, con notas de vainilla y caramelo, y matices de tabaco, canela y cáscara de naranja.",
+        "precio": 6500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 516,
+        "nombre": "Zacapa 23 años",
+        "descripcion": "Ron Zacapa 23 años es un ron originario de Guatemala creado a base de la mezcla de reservas de mieles vírgenes de la caña de azúcar, provenientes del sistema de soleras. El resultado, un ron suave y muy bien equilibrado. \nEl ron Zacapa No. 23 se degusta mejor solo, con hielo o en alguno de los cócteles espirituosos más oscuros.",
+        "precio": 21000,
+        "foto": true,
+        "disponible": true
+      }
+    ]
+  },
+  {
+    "categoria": "TEQUILA Y MEZCAL",
+    "items": [
+      {
+        "id": 83,
+        "nombre": "Olmeca silver 38°",
+        "descripcion": "El Tequila Olmeca Silver es cristalino, con un aroma afrutado y cítrico, acompañado de toques ahumados y amaderados. En boca, es dulce con ligeros matices de miel, ahumados y recuerdos de pimienta.",
+        "precio": 6000,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 222,
+        "nombre": "Olmeca Silver Shot 38°",
+        "descripcion": null,
+        "precio": 4000,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 87,
+        "nombre": "Don Julio Blanco 38°",
+        "descripcion": "El Tequila Don Julio Blanco es cristalino, con un aroma fresco a agave cocido y un toque de pimienta. En boca, es suave y fresco, con notas cítricas y un final cálido y suave.",
+        "precio": 12200,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 420,
+        "nombre": "Shot Don Julio Blanco",
+        "descripcion": null,
+        "precio": 6000,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 88,
+        "nombre": "Don Julio reposado 38°",
+        "descripcion": "El Tequila Don Julio Reposado tiene un color ámbar dorado. Su aroma ofrece notas cítricas de limón, especias y frutas maduras. En boca, se destacan matices suaves de chocolate amargo, vainilla y canela.",
+        "precio": 13500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 421,
+        "nombre": "Shot Don Julio Reposado",
+        "descripcion": null,
+        "precio": 6000,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 781,
+        "nombre": "Mezcal 400 Conejos",
+        "descripcion": "El Mezcal 400 Conejos Joven es una expresión artesanal elaborada en Oaxaca, México, a partir de 100% agave espadín. Este destilado joven, sin reposo en barrica, captura la esencia pura del agave y refleja las tradiciones ancestrales de la cultura mezcalera mexicana.",
+        "precio": 10900,
+        "foto": true,
+        "disponible": true
+      }
+    ]
+  },
+  {
+    "categoria": "VERMUT Y BITTERS",
+    "items": [
+      {
+        "id": 89,
+        "nombre": "Campari 28,5°",
+        "descripcion": "El Campari 28,5° presenta un color rojo intenso y brillante. Con aromas de naranja amarga, hierbas aromáticas y un toque especiado, lo que lo hace complejo y atractivo. En boca, su sabor es amargo y equilibrado, con la naranja como protagonista, complementada por un leve toque dulce y una sensación herbal. El final es seco, persistente y de amargor refinado.",
+        "precio": 6300,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 90,
+        "nombre": "Fernet Branca 39°",
+        "descripcion": "El Fernet Branca 39° tiene un color marrón oscuro con reflejos rojizos. Destaca por sus notas de hierbas amargas, menta y un toque de especias. En boca, su sabor es potente y amargo, con un equilibrio entre las hierbas y un toque de madera. El final es largo, seco y persistente, con una sensación herbácea que permanece en el paladar.",
+        "precio": 5900,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 91,
+        "nombre": "Araucano 28°",
+        "descripcion": "El Araucano 28° tiene un color ámbar dorado brillante. En este se perciben aromas de hierbas frescas, especias suaves y un toque de cítricos. En boca, se muestra suave y equilibrado, con un sabor ligeramente dulce y un toque de amargor que se combina con notas de madera y cítricos. El final es limpio y algo herbáceo, con una ligera persistencia.",
+        "precio": 5500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 385,
+        "nombre": "Shot Araucano",
+        "descripcion": null,
+        "precio": 2600,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 92,
+        "nombre": "Jägermeister 35°",
+        "descripcion": "El Jägermeister 35° tiene un color ámbar oscuro y profundo. Se aprecian notas intensas de hierbas aromáticas, especias y un toque de cítricos, con una base de madera y cáscara de naranja. En boca, su sabor es equilibrado, con una mezcla de dulzura y amargor, destacando las hierbas y un toque ligero de anís y canela. El final es suave, con una persistente sensación herbal y algo dulce.",
+        "precio": 6900,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 263,
+        "nombre": "Shot Jägermeister",
+        "descripcion": null,
+        "precio": 3000,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 487,
+        "nombre": "Jägermeister Cold Brew 33°",
+        "descripcion": "El Jägermeister Cold Brew 33° presenta un color ámbar oscuro y profundo. Sus aromas combinan las clásicas notas herbales y especiadas del Jägermeister, con un marcado aroma a café tostado y un sutil toque de chocolate negro. En boca, es suave y equilibrado, con un amargor moderado donde se entrelazan las hierbas aromáticas, el café intenso y un leve dulzor. El final es largo y persistente, con una sensación aterciopelada de café y especias.",
+        "precio": 6900,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 488,
+        "nombre": "Shot Jägermeister Cold Brew",
+        "descripcion": null,
+        "precio": 3000,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 499,
+        "nombre": "Jägermeister Manifest",
+        "descripcion": "El Jägermeister Manifest tiene un color ámbar profundo con reflejos caoba. Su aroma ofrece una compleja combinación de hierbas aromáticas, especias, vainilla y un sutil toque de barrica de roble, con matices de cítricos y caramelo. En boca, es más suave y refinado que el Jägermeister clásico, con un equilibrio entre dulzura y amargor, resaltando notas de especias cálidas, malta y un fondo de madera tostada. El final es largo y elegante, con una persistente sensación especiada y ligeramente dulce.",
+        "precio": 7900,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 501,
+        "nombre": "Mojito Jägermeister Manifest",
+        "descripcion": null,
+        "precio": 8900,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 502,
+        "nombre": "Jägermeister Manifest Shot",
+        "descripcion": null,
+        "precio": 4000,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 96,
+        "nombre": "Licor Kahlua Azteca 16°",
+        "descripcion": "El Licor Kahlúa Azteca 16° tiene un color marrón oscuro con reflejos rojizos. Este destaca por sus intensos aromas a café tostado, vainilla y un toque de chocolate, con una ligera presencia de especias. En boca, es suave y dulce, con un sabor marcado a café y vainilla, complementado con un toque sutil de almendra. El final es cálido y cremoso, con una persistente sensación de café y dulzura.",
+        "precio": 5900,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 93,
+        "nombre": "Borguetti 25°",
+        "descripcion": "El Borghetti 25° presenta un color oscuro y brillante, con tonos marrones. Este ofrece una mezcla de aromas de café tostado, vainilla y un toque de chocolate, con una base sutil de almendra. En boca, tiene un sabor suave y dulce, con un marcado sabor a café y un toque de licor que se equilibra con un leve retrogusto a vainilla y nuez. El final es agradablemente dulce y cremoso, con una ligera persistencia a café.",
+        "precio": 5900,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 94,
+        "nombre": "Frangelico 20°",
+        "descripcion": "El Frangelico 20° tiene un color dorado claro con reflejos ámbar. Entre sus aromas se destacan las notas de avellanas tostadas, acompañadas de vainilla, un toque de cítricos y caramelo. En boca, ofrece una suavidad cremosa y un sabor dulce, con el predominio de las avellanas, combinadas con un toque de miel y vainilla. El final es suave y cálido, con una ligera persistencia a frutos secos.",
+        "precio": 5900,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 95,
+        "nombre": "Crema Baileys Irish 17°",
+        "descripcion": "El Crema Baileys Irish 17° tiene un color blanco cremoso con tonos dorados suaves. En este se perciben aromas intensos de vainilla, chocolate y un toque sutil de café, con una base láctea que le otorga un carácter suave. En boca, su textura es cremosa y sedosa, con un equilibrio perfecto entre crema de leche, chocolate y un leve toque de whisky irlandés. El final es suave y dulce, con una persistencia delicada de vainilla y crema.",
+        "precio": 6900,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 97,
+        "nombre": "Saint Germain 20°",
+        "descripcion": "El Saint Germain 20° tiene un color dorado pálido y brillante. Se perciben intensas notas florales de flor de saúco, acompañadas de toques de cítricos y un leve fondo herbal. En boca, su sabor es delicado y fresco, con una mezcla de dulzura floral y un toque sutil de frutas como pera y durazno, que se equilibran con una ligera acidez.",
+        "precio": 7500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 98,
+        "nombre": "Chambord 16,5°",
+        "descripcion": "El Chambord 16,5° tiene un color profundo y oscuro, con tonalidades rojizas y moradas. Se perciben intensas notas de frambuesa y moras negras, acompañadas de un toque de vainilla y un ligero fondo de hierbas y cítricos. En boca, su sabor es rico y afrutado, con el predominio de las bayas rojas, equilibrado con una suave dulzura y una ligera acidez. El final es suave y persistente, dejando un retrogusto afrutado y ligeramente floral.",
+        "precio": 6500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 99,
+        "nombre": "Licor Drambuie 40°",
+        "descripcion": "El Drambuie 40° tiene un color ámbar dorado profundo. En este se perciben notas intensas de miel, especias y un toque de hierbas aromáticas, con una base de whisky escocés añejado. En boca, es suave y equilibrado, con un perfil dulce donde predominan la miel y las especias, complementadas con sutiles toques de cítricos y vainilla. El final es largo y cálido, con una persistente sensación especiada y melosa.",
+        "precio": 7200,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 256,
+        "nombre": "Vermouth Rosso",
+        "descripcion": "El Vermouth Rosso tiene un color rojo ámbar con destellos caoba. En este destacan notas intensas de hierbas aromáticas, especias y un toque de caramelo, con matices de cítricos y vino macerado. En boca, es equilibrado, con una dulzura moderada que se combina con un amargor herbal y notas de vainilla, canela y clavo de olor. El final es largo y especiado, con una persistente sensación amarga y ligeramente dulce.",
+        "precio": 5900,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 307,
+        "nombre": "Brandy Torres 10",
+        "descripcion": null,
+        "precio": 9800,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 396,
+        "nombre": "Corto Carpano",
+        "descripcion": null,
+        "precio": 5500,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 496,
+        "nombre": "Shot Menta",
+        "descripcion": null,
+        "precio": 3000,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 747,
+        "nombre": "Shot Fernet Branca",
+        "descripcion": null,
+        "precio": 3300,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 825,
+        "nombre": "Disaronno",
+        "descripcion": "El licor de Almendras Disaronno nace en 1525 en Saronno, Italia. Su versatilidad da un toque único para hacer copas innovadoras, sofisticadas y de calidad.",
+        "precio": 6900,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 831,
+        "nombre": "Vermouth Casals",
+        "descripcion": "Vermouth Casals Mediterranean 750cc es una exquisita bebida que captura la esencia del Mediterráneo en cada sorbo. Elaborado con una cuidadosa selección de hierbas y especias, este vermouth destaca por su sabor equilibrado y aromático. Ideal para disfrutar solo, con hielo o como base para cócteles sofisticados, el Vermouth Casals Mediterranean es perfecto para cualquier ocasión.",
+        "precio": 8500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 845,
+        "nombre": "Vermuth 55",
+        "descripcion": null,
+        "precio": 7500,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 848,
+        "nombre": "Cointreau",
+        "descripcion": null,
+        "precio": 7500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 867,
+        "nombre": "Fernet Branca Menta 20°",
+        "descripcion": "Fernet Branca Menta es un licor herbal de carácter intenso y refrescante, que combina el amargor clásico del fernet con notas marcadas de menta natural. Aromático, balsámico y de final fresco, ideal para tomar bien frío, solo o en cócteles.",
+        "precio": 5900,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 868,
+        "nombre": "Vermouth Bianco",
+        "descripcion": null,
+        "precio": 5900,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 869,
+        "nombre": "Noilly Prat Extra Dry",
+        "descripcion": "Noilly Prat Extra Dry es un vermut seco francés de carácter fino y luminoso, con aromas herbales y florales, un dejo marino sutil y un final limpio y persistente. 18° de alcohol que equilibran frescura, elegancia y profundidad en cada sorbo.",
+        "precio": 6900,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 873,
+        "nombre": "Shot Campari",
+        "descripcion": null,
+        "precio": 3000,
+        "foto": false,
+        "disponible": true
+      }
+    ]
+  },
+  {
+    "categoria": "VODKA",
+    "items": [
+      {
+        "id": 73,
+        "nombre": "Stolichnaya",
+        "descripcion": "El Vodka Stolichnaya es incoloro, con destellos acerados. Su aroma presenta notas cítricas, toques ahumados y minerales. En boca, es sedoso, con sabores marcados de lima y pomelo, y un final suave con un sutil amargor agradable.",
+        "precio": 5900,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 76,
+        "nombre": "Ciervo Austral",
+        "descripcion": "El Vodka Ciervo Austral es un destilado chileno premium, claro y translúcido. Le destacan aromas a plátano y piña madura. En boca, es suave, con un dulzor delicado, textura redondeada y toques de almendra. Su final es largo y satisfactorio.",
+        "precio": 8900,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 77,
+        "nombre": "Absolut Blue 40°",
+        "descripcion": "El Vodka Absolut Blue es cristalino y transparente. Ofrece aromas frescos y ligeramente granulosos, con sutiles notas de trigo. En boca, es rico y con cuerpo, destacando una textura suave y sedosa. Se perciben matices de grano maduro y un ligero dulzor natural, complementado con delicadas notas de frutas secas. Su final es limpio, equilibrado y prolongado.",
+        "precio": 6000,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 78,
+        "nombre": "Absolut Mango 40°",
+        "descripcion": "Absolut Mango es un vodka sueco cristalino y transparente, con un aroma tropical dominado por mango fresco y sutiles notas cítricas. En boca, es suave y dulce, con un sabor intenso a mango jugoso, equilibrado por una ligera acidez que aporta frescura. Su final es largo, afrutado y refrescante.",
+        "precio": 6500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 80,
+        "nombre": "Absolut Pears 40°",
+        "descripcion": "Absolut Pears es un vodka cristalino con un aroma fresco a pera madura, complementado con toques florales y cítricos. En boca, es suave y equilibrado, con un sabor intenso a pera jugosa, un toque de dulzor natural y una ligera acidez refrescante. Su final es limpio y afrutado.",
+        "precio": 6500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 79,
+        "nombre": "Absolut Raspberri 40°",
+        "descripcion": "Absolut Raspberri es un vodka con un aroma fresco y afrutado, dominado por frambuesas silvestres maduras, complementado con toques florales, cítricos y un sutil matiz de hierbas. En boca, equilibra dulzor y acidez, con un sabor intenso a frambuesa, notas de vainilla, un toque ligeramente ácido y una textura suave y aterciopelada. Su final es suave, ligeramente ácido y refrescante.",
+        "precio": 6500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 81,
+        "nombre": "Zubrowka Bison Grass 37,5°",
+        "descripcion": "El Vodka Zubrowka Bison Grass tiene un color verde oliva pálido. Su aroma deja ver notas herbáceas dominantes, con toques cítricos, vainilla, flores de primavera y un ligero matiz de heno y lavanda. En boca, es suave y equilibrado, con sabores herbáceos que se complementan con notas de lavanda, té de jazmín, cítricos, chocolate y café con leche.",
+        "precio": 7200,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 82,
+        "nombre": "Grey Goose 40°",
+        "descripcion": "El Vodka Grey Goose es cristalino y brillante. Su aroma tiene un perfil delicado y floral con notas cítricas sutiles. En boca, es suave y redondo, con un toque de almendra y un final largo.",
+        "precio": 10200,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 836,
+        "nombre": "Shot Zubrowka Bison Grass 37,5°",
+        "descripcion": null,
+        "precio": 4000,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 866,
+        "nombre": "Stolichnaya Elit Eighteen",
+        "descripcion": "Vodka premium de perfil limpio y sedoso. Destaca por su pureza, con notas sutiles de grano, crema y un final suave y elegante. Ideal para disfrutar solo, muy frío o en cócteles refinados.",
+        "precio": 8900,
+        "foto": true,
+        "disponible": true
+      }
+    ]
+  },
+  {
+    "categoria": "WHISKY Y WHISKEY",
+    "items": [
+      {
+        "id": 58,
+        "nombre": "Ballantines Finest 40°",
+        "descripcion": "El Ballantine's Finest 40°, es un whisky que presenta un color dorado claro. Ofrece un aroma suave y elegante, destacando notas de miel de brezo y un toque de especias. Al paladar, se perciben sabores sutiles y bien equilibrados, con matices de chocolate con leche, manzana roja y vainilla. El final es largo y equilibrado, dejando un regusto sofisticado, fresco y floral.",
+        "precio": 5900,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 63,
+        "nombre": "Johnnie Walker Red Label 40°",
+        "descripcion": "El Johnnie Walker Red Label 40° es un whisky blended de color dorado con aromas a brezo, hierbas, frutas frescas y un toque de miel. Su sabor es intenso y especiado, con notas de canela, pimienta, frutas como manzana y pera, y un final ahumado.",
+        "precio": 5900,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 64,
+        "nombre": "Johnnie Walker Black Label 40°",
+        "descripcion": "El Johnnie Walker Black Label 40°es un whisky blended de color ámbar profundo, con aromas a frutas blancas, vainilla, frutos secos y un sutil toque ahumado. En boca es suave y equilibrado, con notas de pasas, miel, nueces y especias, finalizando con un toque cítrico y ahumado.",
+        "precio": 8900,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 517,
+        "nombre": "Johnnie Walker Doble Black Label",
+        "descripcion": "El Johnnie Walker Double Black es un whisky escocés de mezcla con un perfil más ahumado e intenso que el Black Label. Su color ámbar profundo anticipa un aroma donde destacan notas de turba, roble tostado y especias, complementadas por toques de miel, frutas secas y vainilla. En boca, es robusto y envolvente, con sabores de caramelo, malta y un ahumado pronunciado que se equilibra con matices de manzana, pimienta negra y un ligero dulzor. Su final es largo y cálido, con un persistente toque ahumado y especiado.",
+        "precio": 12000,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 65,
+        "nombre": "Chivas Regal 12 años 40°",
+        "descripcion": "El Chivas Regal 12 años 40° es un whisky blended suave y equilibrado, con aromas a manzana roja, peras, miel y especias. En boca es cremoso, con notas de vainilla, caramelo y avellana, terminando con un final rico y persistente.",
+        "precio": 8200,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 57,
+        "nombre": "Jim Beam 40°",
+        "descripcion": "El Jim Beam 40° presenta un color ámbar brillante y un aroma dulce con notas de vainilla, maíz y cereal. En boca ofrece un cuerpo medio con sabores a roble tostado, vainilla y un toque de pimienta, terminando con un final suave y ligeramente dulce. Su carácter distintivo proviene de su añejamiento de al menos cuatro años en barricas de roble blanco americano.",
+        "precio": 6200,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 62,
+        "nombre": "Jack Daniels's Old No.7 40°",
+        "descripcion": "El Jack Daniel's Old No.7 40° es un whisky de color ámbar y aromas equilibrados de caramelo y madera tostada. En boca, presenta un sabor bien balanceado con notas dulces y tostadas gracias al suavizado con filtrado de carbón de arce y añejado en roble blanco americano.",
+        "precio": 7900,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 59,
+        "nombre": "Jack Daniel's Fire 35°",
+        "descripcion": "El Jack Daniel's Fire 35° Presenta un color ámbar cálido. En este predominan los aromas de canela y cereales tostados, con una persistente nota especiada. Al paladar, ofrece una mezcla dulce y picante, destacando la canela complementada por notas de azúcar moreno y mantequilla. El final recuerda a galletas de canela, cereales y sutiles matices de la madera en la que ha sido envejecido.",
+        "precio": 8500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 60,
+        "nombre": "Jack Daniel's Honey 35°",
+        "descripcion": "El Jack Daniel's Honey 35° presenta un color ámbar claro. Se le perciben aromas de miel natural, melaza y frutos secos tostados, que aportan un acabado dulce al tradicional aroma de Jack Daniel's. En boca, se añaden notas de chocolate y praliné, con un final suave que deja un toque de miel y nueces.",
+        "precio": 8500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 61,
+        "nombre": "Jack Daniel's Apple 35°",
+        "descripcion": "El Jack Daniel's Apple 35° presenta un color ámbar. Este ofrece un aroma fresco a manzana verde que se fusiona con notas de caramelo, roble y especias suaves. Al paladar, las manzanas recién cortadas se combinan con caramelo caliente y toffee, equilibrándose con matices especiados clásicos. El final es delicioso y suave, con sabores a manzanas dulces y un toque de roble tostado.",
+        "precio": 8500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 730,
+        "nombre": "Jack Daniels's Single Barrel",
+        "descripcion": null,
+        "precio": 18000,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 66,
+        "nombre": "Akashi Black 40°",
+        "descripcion": "El Akashi Black 40° es un whisky japonés blended de la destilería White Oak, madurado en barricas de bourbon y jerez. Presenta aromas a pan con mantequilla, chocolate y un toque especiado. En boca, destacan notas de cereales dulces, pan de cereza y pimienta negra. Su final es de mediana duración, con matices de albaricoque seco y avena.",
+        "precio": 14000,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 515,
+        "nombre": "Akashi Single Malt",
+        "descripcion": "El Akashi Single Malt es un whisky japonés de la destilería White Oak, con un color ámbar dorado y reflejos cobrizos. Este combina notas de miel, frutas maduras, vainilla y un toque de roble tostado, con matices de almendras y especias. En boca, es suave y sedoso, con sabores de malta, frutos secos, canela, pimienta blanca y un sutil toque de chocolate y madera. Su final es medio-largo, dejando un retrogusto especiado y ligeramente seco.",
+        "precio": 40000,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 67,
+        "nombre": "Glenfarclas 105 60°",
+        "descripcion": "El Glenfarclas 105 60° es un whisky escocés de malta con gran intensidad y complejidad. Presenta un color oro oscuro, aromas a miel, frutos secos y chocolate. En boca es potente y equilibrado, con notas dulces y especiadas. Su final es largo, cálido y persistente, destacando su maduración en barricas de jerez.",
+        "precio": 10900,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 316,
+        "nombre": "Jameson Irish Whiskey 40°",
+        "descripcion": "El Jameson Irish Whiskey 40° es un whisky irlandés suave y equilibrado, con un color ámbar dorado. Presenta aromas florales y amaderados, y en boca se destacan las especias, nuez y vainilla, con un toque dulce de jerez y un final que es suave y persistente.",
+        "precio": 6900,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 504,
+        "nombre": "Whisky Bulleit Corto",
+        "descripcion": null,
+        "precio": 7500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 505,
+        "nombre": "Whisky Bulleit con Bebida",
+        "descripcion": null,
+        "precio": 7800,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 938,
+        "nombre": "Brandy Tres Bandurrias",
+        "descripcion": null,
+        "precio": 9800,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 986,
+        "nombre": "Shot Fireball",
+        "descripcion": "Fireball es un intenso licor de whisky canadiense de 33° infusionado con canela natural. Destaca por su sabor dulce, un toque picante y un final ardiente.",
+        "precio": 3500,
+        "foto": true,
+        "disponible": true
+      }
+    ]
+  },
+  {
+    "categoria": "VINOS",
+    "items": [
+      {
+        "id": 284,
+        "nombre": "Las Mulas Cabernet Sauvignon",
+        "descripcion": "Miguel Torres Organic Wine, 2023.\nColor rojo rubí intenso y brillante, con aromas a frutos rojos maduros, como cerezas y ciruelas, acompañados de notas especiadas y toques de vainilla y chocolate. En boca, es un vino de cuerpo medio, con taninos suaves y redondos que brindan una textura aterciopelada y un final largo y persistente que envuelve el paladar de manera cálida.",
+        "precio": 16500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 283,
+        "nombre": "Las Mulas Cabernet Sauvignon Copa",
+        "descripcion": "Miguel Torres Organic Wine, 2023.",
+        "precio": 5000,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 268,
+        "nombre": "Las Mulas Carmenere",
+        "descripcion": "Miguel Torres Organic Wine, 2023.\nUn vino orgánico y vegano de la Viña Miguel Torres - Las Mulas. Este vino de la Viña Miguel Torres tiene un intenso como color cereza oscuro. Finos aromas frutales, con notas balsámicas. Paladar elegante y goloso, con expresión de matices de cuero y especias. Final de boca prolongado.",
+        "precio": 16500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 202,
+        "nombre": "Las Mulas Carmenere Copa",
+        "descripcion": "Miguel Torres Organic Wine, 2023.",
+        "precio": 5000,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 282,
+        "nombre": "Las Mulas Sauvignon Blanc",
+        "descripcion": "Miguel Torres Organic Wine, 2024.\nAmarillo pálido y brillante. Despliega aromas intensos que evocan frutas tropicales maduras como piña y maracuyá, complementadas con sutiles toques de frutas cítricas como lima y pomelo. En boca, se presenta sedoso y equilibrado, con una estructura ácida bien definida que aporta frescura. Su final es largo y persistente, dejando una agradable sensación frutal y refrescante.",
+        "precio": 16500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 281,
+        "nombre": "Las Mulas Sauvignon Blanc Copa",
+        "descripcion": "Miguel Torres Organic Wine, 2024.",
+        "precio": 5000,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 274,
+        "nombre": "La Causa Cinsault",
+        "descripcion": "Cinsault, 2021, Valle del Itata.\nDe color rubí, con tintes violeta, su aroma muestra frutas rojas y negras frescas, con toques especiados y de frutos secos. En boca se muestra delicado, con gran acidez y taninos firmes que le otorgan nervio y estructura.",
+        "precio": 21900,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 203,
+        "nombre": "Lepus Ensamblaje",
+        "descripcion": "Syrah, Petit Verdot, Touriga Nacional, Petite Sirah, Garnacha, 2021, DO Elqui.\nPúrpura brillante y profundo, un vino fresco.  En nariz es floral y mucha fruta roja.  En boca es fresco, y de buen volumen.  Un vino jugoso, con un final en donde persisten las moras, flores.  Un muy buen vino. Versátil",
+        "precio": 22000,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 392,
+        "nombre": "Montes Chardonnay",
+        "descripcion": "Reserva Classic Series.\nAmarillo clásico de un chardonnay. Aroma intenso y complejo. Destacan notas de frutos tropicales como piña, banana y mango maduro. Agradables notas a duraznos y pera completan su perfil frutal. El clima costero se hace presente a través de sutiles notas a pomelo y espárragos blancos. En boca de final largo y elegante. Es de ataque suave y acidez perfectamente balanceada, convirtiéndolo en un vino más bien fresco, pero de volumen generoso.",
+        "precio": 19500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 399,
+        "nombre": "Montes Chardonnay Copa",
+        "descripcion": "Reserva Classic Series",
+        "precio": 5500,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 390,
+        "nombre": "Montes Pinot Noir",
+        "descripcion": "Gran Reserva Limited Selection.\nUn vino muy balanceado, de rica acidez natural que lo hace jugoso y fresco. Notas a guindas ácidas y frutillas frescas, sobre un fondo floral con aromas a pétalos de rosas y hierbas silvestres.\nEn boca los taninos suaves, de cuerpo ligero y final prolongado que invita a segunda copa.",
+        "precio": 21800,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 645,
+        "nombre": "Montes Pinot Noir Copa",
+        "descripcion": null,
+        "precio": 5000,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 393,
+        "nombre": "Montes Sauvignon Blanc",
+        "descripcion": "Reserva Classic Series.\nAroma perfumado pero elegante. Predomina la fruta tropical como maracuyá y piña fresca. Notas cítricas a pomelo rosado y algo floral, que recuerda al azahar, aparecen de fondo.\nEn boca suave pero con una acidez natural vibrante, muy fresca. De volumen medio, en el paladar muestra sensaciones minerales tenues que le confieren un final jugoso.",
+        "precio": 19500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 683,
+        "nombre": "Montes Sauvignon Blanc Copa",
+        "descripcion": null,
+        "precio": 5500,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 835,
+        "nombre": "Moretta Ceniciento Cabernet Sauvignon",
+        "descripcion": "Descubre la elegancia del Vino Moretta Ceniciento Cabernet Sauvignon 750cc, una joya enológica de Chile que captura la esencia de los viñedos más prestigiosos del país. Este vino tinto, elaborado con uvas seleccionadas de la variedad Cabernet Sauvignon, ofrece un perfil aromático complejo con notas de frutos rojos maduros, toques de especias y un sutil aroma a roble.",
+        "precio": 20000,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 309,
+        "nombre": "Tara Chardonnay",
+        "descripcion": "Chardonnay, 2018, DO Valle de Atacama.\nTara White Wine es un vino de estilo fresco, nervioso y mineral y con\nuna boca tensa y de buena estructura, donde el suelo calcáreo y salino se siente en el paladar. Aromáticamente, es un vino de frutos tipo\npepino de frutas, damasco y flores, que evolucionan en la copa a medida que se bebe. La variedad no se refleja de modo clásico y esto\nlo atribuimos a un terruño muy particular y único en el mundo,\nproporcionado por un clima con influencia del océano Pacífico con\nmañanas nubladas por la neblina llamada “Camanchaca”, el viento\nfuerte que refresca los viñedos y que permiten tener lo que denominamos un desierto de clima fresco, pero a la vez muy árido y de suelos calcáreos y salinos.",
+        "precio": 49800,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 308,
+        "nombre": "Tara Sauvignon Blanc",
+        "descripcion": "Sauvignon Blanc, 2021, DO Valle de Atacama.\nVerde pálido y con presencia de lías finas.\nDominan los aromas a piedra, minerales, hierba recién cortada y suaves flores blancas.\nEn boca destaca por su estructura, tensión y gran persistencia. La presencia de sus lías finas suman al vino textura y definición.",
+        "precio": 49800,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 373,
+        "nombre": "Valle Secreto Late Harvest",
+        "descripcion": "First Edition, Late Harvest, 2022, DO Cachapoal Andes.\nAmarillo oro brillante.\nCon aroma a miel, frutos tropicales y piña predominan en nariz.\nEn boca excelente equilibrio de acidez, fresco y con un agradable dulzor, buena persistencia y rico final.",
+        "precio": 14500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 328,
+        "nombre": "Dama Juana Pais",
+        "descripcion": "Pipeño Pais, Guarda en Pipa, DO Itata, Portezuelo.\nRojo rubí brillante, de capa ligera y reflejos vivos. Aromas intensos de frutilla fresca, cereza ácida y granada, con sutiles notas herbales, terrosas y un toque especiado, aportado por su fermentación en lagar de raulí. En boca es ligero y fresco, con una acidez vibrante que realza su perfil frutal. Taninos suaves y bien integrados, con una textura delicada y un sutil fondo aportado por la guarda en madera nativa chilena.\nUn vino expresivo y auténtico, que captura la esencia del secano interior y su transición hacia la agricultura biodinámica.",
+        "precio": 19500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 329,
+        "nombre": "Üyak Cinsaut",
+        "descripcion": "Cinsault, 2019, DO Itata, Checura.\nÜYAK, refleja la tipicidad de la variedad Cinsault en el Itata en todo su sentido del origen. Color rojo violeta pálido. En nariz intenso podemos distinguir frambuesa con notas a guinda. En boca es ligero, muy suave y de gran acidez, en donde aparecen nuevamente las notas de frambuesa, además de un especiado ligero. También, se siente el trabajo de la ánfora en la amplitud, sin perder el frescor y acidez característica de la variedad.",
+        "precio": 22900,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 331,
+        "nombre": "Les Espias Chenin Blanc",
+        "descripcion": "Chenin Blanc, 2021, DO Valle de Curico.\nAmarillo tenue con reflejos dorados.\nNotas a frutos como avellana, damasco, durazno, pera, enlazados con un toque a mantequilla.\nEn boca es un vino ligero y fácil de tomar, con acidez equilibrada.",
+        "precio": 19000,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 255,
+        "nombre": "Estelado Brut Rosé",
+        "descripcion": "Espumante BRUT ROSE, Miguel Torres, uva País. Método Tradicional.\nRosa pálido y brillante. Sus burbujas, pequeñas y ligeramente gruesas, forman una sutil corona en la copa, mostrando una efervescencia delicada y persistente.\nExpresivo y fresco, con aromas de lima y frutilla madura, complementados por notas de guinda ácida y un sutil toque especiado de pimienta blanca, que aporta complejidad y carácter. En boca entrada vibrante y frutal, con una marcada presencia cítrica que aporta frescura. Suave y equilibrado, con un leve amargor en el final que realza su estructura y lo hace aún más interesante. Su textura burbujeante envuelve el paladar, dejando una sensación refrescante y sabrosa. Un espumante elegante y expresivo",
+        "precio": 18000,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 368,
+        "nombre": "Undurraga Brut Royal",
+        "descripcion": "Amarillo brillante con tintes rosados, con finas burbujas que dibujan su elegante perlaje. Sus aromas se abren intensamente presentando tonos frutales de carácter cítrico con un toque floral fresco y elegante. En boca es seco, fresco y de equilibrada acidez lo que brinda un final redondo.",
+        "precio": 16500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 265,
+        "nombre": "Copa Espumante",
+        "descripcion": null,
+        "precio": 4500,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 490,
+        "nombre": "Sidra DellaCha Murta 750 cc",
+        "descripcion": null,
+        "precio": 15900,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 315,
+        "nombre": "Sidra DellaCha Rose 750 cc",
+        "descripcion": "Rosa pálido, que recuerdan al salmón claro. Expresa un Aroma limpio floral y frutado, con notas que recuerdan a la Rosa y a frutos rojos como la Grosella. Es en boca refrescante y sabrosa, tiene una agradable acidez matizada por un toque dulce. Tiene un final Elegante con resabio a piel de manzana.",
+        "precio": 15900,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 485,
+        "nombre": "DonnaLuna Tinto Rosso Copa",
+        "descripcion": null,
+        "precio": 5000,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 486,
+        "nombre": "DonnaLuna Rossato Copa",
+        "descripcion": null,
+        "precio": 5000,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 661,
+        "nombre": "Las Mulas Extra Brut",
+        "descripcion": "Espumante del secano del valle Central, elaborado 100% con uva País o Chilena, utilizando el método Tradicional o Champenoise, en la que la segunda fermentación es realizada en botella y en contacto con sus lías por 17 meses en la añada 2018.",
+        "precio": 19900,
+        "foto": true,
+        "disponible": true
+      },
+      {
+        "id": 830,
+        "nombre": "De Fruta Madre Carmenere",
+        "descripcion": null,
+        "precio": 18500,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 374,
+        "nombre": "Botella Externa Descorche",
+        "descripcion": null,
+        "precio": 8000,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 890,
+        "nombre": "La Despensa Sangiovese",
+        "descripcion": "Vino artesanal de autor, fresco y expresivo, con notas frutales y carácter equilibrado. Ideal para acompañar comidas o disfrutar por copa. 13.5°",
+        "precio": 22000,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 923,
+        "nombre": "Copa Prosecco",
+        "descripcion": null,
+        "precio": 7000,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 971,
+        "nombre": "Los Vascos Chardonnay",
+        "descripcion": "Los Vascos Chardonnay es un vino blanco elegante, fresco y equilibrado, respaldado por la tradición de Domaines Barons de Rothschild (Lafite). Destaca por sus aromas expresivos a piña, plátano y cítricos, ofreciendo en boca una acidez vibrante y una redondez frutal perfecta para maridar con pescados, mariscos y pastas cremosas.",
+        "precio": 18000,
+        "foto": false,
+        "disponible": true
+      }
+    ]
+  },
+  {
+    "categoria": "BAJATIVOS DE LA CASA",
+    "items": [
+      {
+        "id": 297,
+        "nombre": "Limoncello 55",
+        "descripcion": "Licor artesanal a base de cáscaras cítricas.",
+        "precio": 5500,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 790,
+        "nombre": "Tepa 55",
+        "descripcion": "Licor artesanal a base de hoja de tepa.",
+        "precio": 5500,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 940,
+        "nombre": "Licor de murra 55",
+        "descripcion": "Licor artesanal a base de murra.",
+        "precio": 5500,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 941,
+        "nombre": "Licor de murta 55",
+        "descripcion": "Licor artesanal a base de murta.",
+        "precio": 5500,
+        "foto": false,
+        "disponible": true
+      },
+      {
+        "id": 950,
+        "nombre": "Licor de arrayán 55",
+        "descripcion": "Licor artesanal a base de fruto de arrayán.",
+        "precio": 5500,
+        "foto": false,
+        "disponible": true
+      }
+    ]
+  }
+]
